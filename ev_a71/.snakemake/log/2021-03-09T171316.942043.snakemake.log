@@ -1,0 +1,31 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	align
+	1	all
+	1	ancestral
+	1	export
+	1	refine
+	1	traits
+	1	translate
+	1	tree
+	8
+Select jobs to execute...
+
+[Tue Mar  9 17:13:17 2021]
+Job 4: 
+        Aligning sequences to config/reference_sequence.gb
+          - filling gaps with N
+        
+
+[Tue Mar  9 19:39:41 2021]
+Finished job 4.
+1 of 8 steps (12%) done
+Select jobs to execute...
+
+[Tue Mar  9 19:39:41 2021]
+Job 3: Building tree
+

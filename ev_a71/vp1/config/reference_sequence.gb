@@ -1,0 +1,58 @@
+LOCUS       ETU22521                891 bp    RNA      linear   VRL 30-APR-2001
+DEFINITION  Human enterovirus 71 polyprotein gene, VP1
+ACCESSION   U22521
+VERSION     U22521.1
+KEYWORDS    .
+SOURCE      Enterovirus A71 (EV-A71)
+  ORGANISM  Enterovirus A71
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Enterovirus; Enterovirus A.
+REFERENCE   1  (sites)
+  AUTHORS   Brown,B.A. and Pallansch,M.A.
+  TITLE     Complete nucleotide sequence of enterovirus 71 is distinct from
+            poliovirus
+  JOURNAL   Virus Res. 39 (2-3), 195-205 (1995)
+   PUBMED   8837884
+REFERENCE   2  (bases 1 to 7408)
+  AUTHORS   Brown,B.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAR-1995) Betty A. Brown., Centers for Disease
+            Control and Prevention, CID/REVB/Enterovirus unit, 1600 Clifton Rd,
+            Atlanta, GA 30333, USA
+FEATURES             Location/Qualifiers
+     source          1..891
+                     /organism="Enterovirus A71"
+                     /mol_type="genomic RNA"
+                     /strain="BrCr"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:39054"
+     CDS             1..891
+                     /codon_start=1
+                     /product="VP1"
+                     /note="capsid protein"
+                     /translation="GDRVADVIESSIGDSVSKALTPALPAPTGPDTQVSSHRLDTGKV
+                     PALQAAEIGASSNASDESMIETRCVLNSHSTAETTLDSFFSRAGLVGEIDLPLKGTTN
+                     PNGYANWDIDITGYAQMRRKVELFTYMRFDAEFTFVACTPTGRVVPQLLQYMFVPPGA
+                     PKPDSRDSLAWPTATNPSVFVKSSDPPAQVSVPFMSPASAYQWFYDGYPTFGEHKQEK
+                     DLEYGACPNNMMGTFSVRTVGSSKSEYSLVIRIYMRMKHVRAWIPRPMRNQNYLFKSN
+                     PNYAGDSIKPTGTSRTAITT"
+     CDS             1..891
+                     /gene="VP1"
+ORIGIN      
+        1  ggggacagag tggcagatgt gattgagagc tctataggag atagtgtgag taaggccctc
+       61  accccagctt tacctgcacc cacaggccca gacacccaag tgagcagtca tcgcttagac
+      121  actggaaaag taccagcact tcaagccgcc gaaatcggag cttcgtcgaa tgctagtgat
+      181  gagagtatga ttgagactcg gtgtgttctt aactcacata gcacagctga aaccaccctt
+      241  gatagtttct tcagcagagc aggcttagtt ggggagatag atcttcctct aaagggcacc
+      301  accaatccga acgggtatgc caactgggac atagacataa ccggttatgc gcagatgcgc
+      361  agaaaagtgg aactattcac ctatatgcgc tttgacgcag agttcacttt tgtcgcgtgc
+      421  acacctaccg gaagggtcgt tccacagctg cttcaataca tgtttgttcc acccggggcc
+      481  cccaaaccag actccagaga ctctttggct tggccaacgg ccacgaaccc ctcagttttt
+      541  gtcaaatcat ccgacccacc agcacaagtc tcagtgccat ttatgtcacc tgcaagcgca
+      601  taccaatggt tttatgacgg ataccctaca tttggagagc acaagcaaga gaaggatctc
+      661  gagtatgggg catgcccgaa taacatgatg ggcacattct cagtgcggac tgtgggatcg
+      721  tcaaagtcag aatattcctt agtcatcaga atatacatga gaatgaagca cgtcagagcg
+      781  tggatacctc ggccgatgcg caatcagaac tatttgttca aatccaaccc aaactatgct
+      841  ggtgattcca ttaaaccaac tggtaccagc cgaacggcaa tcactacgct c
+//
+ 

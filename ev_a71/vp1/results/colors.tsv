@@ -5196,7 +5196,7 @@ location	San Juan CR	#426FCE
 location	San Diego CR	#4270CE
 location	La Union	#4270CE
 location	Concepcion CR	#4271CE
-location	"San Ramón District, La Unión"	#4271CE
+location	San Ramón District, La Unión	#4271CE
 location	Tres Rios CR	#4271CE
 location	San Isidro CR	#4272CE
 location	El Tejar	#4272CE
@@ -6264,7 +6264,7 @@ division	Phnom Penh	#4376CD
 division	Cambodia	#4377CD
 division	Steung Treng	#4377CD
 division	Ho Chi Minh City	#4378CD
-division	Viet Nam	#4378CD
+division	Vietnam	#4378CD
 division	Thanh Hoa	#4379CD
 division	Hai Duong	#4379CD
 division	Quangninh	#437ACD
@@ -7685,7 +7685,7 @@ country	Malaysia	#3F50CC
 country	Singapore	#3E5ACF
 country	China	#3F63CF
 country	Cambodia	#416CCE
-country	Viet Nam	#4376CD
+country	Vietnam	#4376CD
 country	Hong Kong	#457ECB
 country	Indonesia	#4885C7
 country	Brunei	#4B8DC2

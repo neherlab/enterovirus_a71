@@ -37,7 +37,7 @@ rule subsample_sequences:
     input:
         sequences = vipr_fasta
     output:
-        sequences = "ev_a71/{segments}/results/sequences.fasta"
+        sequences = "ev_a71/{segments}/results/{segments}_fasta.fasta"
     params:
         sequence_length = sequence_length
     shell:
@@ -57,13 +57,13 @@ rule parse:
         sequences = rules.subsample_sequences.output.sequences
     output:
         duplicate_sequences = "ev_a71/{segments}/results/duplicate_sequences.fasta",
-        uncleaned_metadata_tsv = "ev_a71/{segments}/results/uncleaned_metadata.tsv",
+        uncleaned_metadata = "ev_a71/{segments}/results/uncleaned_metadata.tsv"
     shell:
         """
         augur parse \
             --sequences {input.sequences} \
             --output-sequences {output.duplicate_sequences} \
-            --output-metadata {output.uncleaned_metadata_tsv} \
+            --output-metadata {output.uncleaned_metadata} \
             --fields accession name segment date host country abbreviation virus \
             --separator "|"
         """    
@@ -90,7 +90,7 @@ rule date_parse:
         Cleaning dates in metadata.
         """
     input:
-        metadata = rules.parse.output.uncleaned_metadata_tsv
+        metadata = rules.parse.output.uncleaned_metadata
     output:
         metadata = "ev_a71/{segments}/results/date_cleaned_metadata.tsv"
     shell:
@@ -159,10 +159,10 @@ rule filter:
             --sequence-index {input.sequence_index} \
             --metadata {input.metadata} \
             --exclude {input.exclude} \
-            --output {output.sequences} \
             --group-by {params.group_by} \
             --sequences-per-group {params.sequences_per_group} \
-            --min-date {params.min_date}
+            --min-date {params.min_date} \
+            --output {output.sequences} \
         """
 
 rule reference_gb_to_fasta:

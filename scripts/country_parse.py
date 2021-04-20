@@ -22,7 +22,9 @@ if __name__ == '__main__':
 
     newCountry = []
     for d in Meta_without_NaN:
-        if "_" in d: 
+        if d == "Viet_Nam":
+            auspice_country = "Vietnam"
+        elif "_" in d: 
             auspice_country = d.replace("_", " ")
         else:
             auspice_country = d

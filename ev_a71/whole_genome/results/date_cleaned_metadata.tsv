@@ -1,0 +1,1236 @@
+strain	accession	name	segment	date	host	country	abbreviation	virus
+003/XM/2010	HQ850973	003/XM/2010		2010-XX-XX	Human	China		Enterovirus_A71
+01011Y	JX017384	01011Y		2011-XX-XX	Human	China	EV71	Enterovirus_A71
+02_0_023	KP691657	02_0_023		2013-08-21	Unknown	Viet_Nam		Enterovirus_A71
+02_0_024	KP691664	02_0_024		2013-08-26	Unknown	Viet_Nam		Enterovirus_A71
+02_0_035	KP691653	02_0_035		2013-09-11	Unknown	Viet_Nam		Enterovirus_A71
+02_0_049	KP691663	02_0_049		2013-09-25	Unknown	Viet_Nam		Enterovirus_A71
+02_0_060	KP691652	02_0_060		2013-10-16	Unknown	Viet_Nam		Enterovirus_A71
+02_0_065	KP691659	02_0_065		2013-10-21	Unknown	Viet_Nam		Enterovirus_A71
+02_0_068	KP691656	02_0_068		2013-10-28	Unknown	Viet_Nam		Enterovirus_A71
+02_0_070	KP691646	02_0_070		2013-10-28	Unknown	Viet_Nam		Enterovirus_A71
+02_0_071	KP691647	02_0_071		2013-10-30	Unknown	Viet_Nam		Enterovirus_A71
+02_0_072	KP691650	02_0_072		2013-11-04	Unknown	Viet_Nam		Enterovirus_A71
+02_0_079	KP691643	02_0_079		2013-11-11	Unknown	Viet_Nam		Enterovirus_A71
+02_0_083	KP691655	02_0_083		2013-11-13	Unknown	Viet_Nam		Enterovirus_A71
+02_0_090	KP691658	02_0_090		2013-11-25	Unknown	Viet_Nam		Enterovirus_A71
+02_1_005	KP691662	02_1_005		2013-07-19	Unknown	Viet_Nam		Enterovirus_A71
+02_1_008	KP691654	02_1_008		2013-07-20	Unknown	Viet_Nam		Enterovirus_A71
+02_1_042	KP691651	02_1_042		2013-09-12	Unknown	Viet_Nam		Enterovirus_A71
+02_1_043	KP691648	02_1_043		2013-09-18	Unknown	Viet_Nam		Enterovirus_A71
+02_1_055	KP691645	02_1_055		2013-10-06	Unknown	Viet_Nam		Enterovirus_A71
+02_1_065	KP691661	02_1_065		2013-10-25	Unknown	Viet_Nam		Enterovirus_A71
+02_1_067	KP691660	02_1_067		2013-10-28	Unknown	Viet_Nam		Enterovirus_A71
+02363_Thai_02	AB747375	02363_Thai_02		20XX-XX-XX	Unknown	Thailand		Enterovirus_A71
+03_0_002	KP691644	03_0_002		2013-11-06	Unknown	Viet_Nam		Enterovirus_A71
+03_0_003	KP691649	03_0_003		2013-11-06	Unknown	Viet_Nam		Enterovirus_A71
+03_KOR_00	DQ341356	03_KOR_00		20XX-XX-XX	Unknown	South_Korea		Enterovirus_A71
+06_KOR_00	DQ341355	06_KOR_00		20XX-XX-XX	Unknown	South_Korea		Enterovirus_A71
+0964/SYD/98	JN992285	0964/SYD/98		20XX-XX-XX	Human	Australia		Enterovirus_A71
+1/SHENZHEN/08/China/HFMD/2008	FJ607334	1/SHENZHEN/08/China/HFMD/2008		2008-05-XX	Human	China		Enterovirus_A71
+109/EV71/Wenzhou/CHN/2014	KT008671	109/EV71/Wenzhou/CHN/2014		2014-06-02	Human	China	C4a	Enterovirus_A71
+1095_LPS1	AB550333	1095_LPS1		20XX-XX-XX	Unknown	Japan		Enterovirus_A71
+1095_org	AB550332	1095_org		20XX-XX-XX	Unknown	Japan		Enterovirus_A71
+11/EV71/Wenzhou/CHN/2014	KT008670	11/EV71/Wenzhou/CHN/2014		2014-06-02	Human	China	C4a	Enterovirus_A71
+116/EV71/Wenzhou/CHN/2014	KT008672	116/EV71/Wenzhou/CHN/2014		2014-06-02	Human	China	C4a	Enterovirus_A71
+121/SHENZHEN/08/China/HFMD_Fatal/2008	FJ607337	121/SHENZHEN/08/China/HFMD_Fatal/2008		2008-05-XX	Human	China		Enterovirus_A71
+1235	DQ133459	1235		2004-XX-XX	Unknown	Taiwan		Enterovirus_A71
+1245a/98/tw	AF176044	1245a/98/tw		20XX-XX-XX	Unknown	Taiwan		Enterovirus_A71
+1M_AUS_12_00	DQ341361	1M_AUS_12_00		20XX-XX-XX	Unknown	Australia		Enterovirus_A71
+2006_52_9	KP266579	2006_52_9		2006-11-14	Human	China		Enterovirus_A71
+2007_07364	EU527983	2007_07364		2007-XX-XX	Unknown	Taiwan		Enterovirus_A71
+2007_08747	EU527985	2007_08747		2007-XX-XX	Unknown	Taiwan		Enterovirus_A71
+2008_00643	HM622391	2008_00643		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+2008_07776	HM622392	2008_07776		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+2008_43_16	KP266572	2008_43_16		2008-12-02	Human	China		Enterovirus_A71
+2009_02877	HM156065	2009_02877		2009-XX-XX	Human	Taiwan	B5	Enterovirus_A71
+2009_03531	HM622390	2009_03531		2009-XX-XX	Human	Taiwan		Enterovirus_A71
+2010FJLY008	HQ426649	2010FJLY008		2010-06-XX	Human	China		Enterovirus_A71
+202/Jingdezhen/China/HFMD_Severe/2011	KC109780	202/Jingdezhen/China/HFMD_Severe/2011		2011-10-XX	Human	China	C4	Enterovirus_A71
+236_TW86	FJ357379	236_TW86		1986-XX-XX	Human	Taiwan		Enterovirus_A71
+237_TW86	FJ357380	237_TW86		1986-XX-XX	Human	Taiwan		Enterovirus_A71
+238_TW86	FJ357382	238_TW86		1986-XX-XX	Human	Taiwan		Enterovirus_A71
+244_TW86	FJ357381	244_TW86		1986-XX-XX	Human	Taiwan		Enterovirus_A71
+252_TW86	FJ357383	252_TW86		1986-XX-XX	Human	Taiwan		Enterovirus_A71
+266_TW86	FJ357384	266_TW86		1986-XX-XX	Human	Taiwan		Enterovirus_A71
+26M/AUS/4/99	EU376005	26M/AUS/4/99		20XX-XX-XX	Unknown	Australia		Enterovirus_A71
+26M/AUS/4/99/GuaR1	JQ950555	26M/AUS/4/99/GuaR1		2010-09-13	Human	Australia	B3	Enterovirus_A71
+28/SHENZHEN/08/China/HFMD/2008	FJ607336	28/SHENZHEN/08/China/HFMD/2008		2008-05-XX	Human	China		Enterovirus_A71
+306A	KJ746493	306A		2010-XX-XX	Human	China		Enterovirus_A71
+306B	KJ746494	306B		2010-XX-XX	Human	China		Enterovirus_A71
+3149	JQ280307	3149		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+35/Jingdezhen/China/HFMD_Severe/2011	JQ806378	35/Jingdezhen/China/HFMD_Severe/2011		2011-03-XX	Human	China	C4A	Enterovirus_A71
+3799_SIN_98	DQ341354	3799_SIN_98		20XX-XX-XX	Unknown	Singapore		Enterovirus_A71
+4/EV71/Wenzhou/CHN/2014	KT008669	4/EV71/Wenzhou/CHN/2014		2014-06-02	Human	China	C4a	Enterovirus_A71
+4/SHENZHEN/08/China/HFMD/2008	FJ607335	4/SHENZHEN/08/China/HFMD/2008		2008-05-XX	Human	China		Enterovirus_A71
+4643_TW98	JN544418	4643_TW98		1998-04-27	Human	China	C2	Enterovirus_A71
+518_03F/SD/CHN/07	EU753365	518_03F/SD/CHN/07		2007-05-18	Human	China		Enterovirus_A71
+521_18S/SD/CHN/07	EU753375	521_18S/SD/CHN/07		2007-05-21	Human	China		Enterovirus_A71
+522_04T/SD/CHN/07	EU753384	522_04T/SD/CHN/07		2007-05-22	Human	China		Enterovirus_A71
+523_05T/SD/CHN/07	EU753397	523_05T/SD/CHN/07		2007-05-23	Human	China		Enterovirus_A71
+523_07T/SD/CHN/07	EU753398	523_07T/SD/CHN/07		2007-05-23	Human	China		Enterovirus_A71
+540V/VNM/05	JQ965759	540V/VNM/05		20XX-XX-XX	Human	Viet_Nam		Enterovirus_A71
+5511_SIN_00	DQ341364	5511_SIN_00		20XX-XX-XX	Unknown	Singapore		Enterovirus_A71
+605/SHENZHEN/08/China/HFMD_Severe/2008	FJ607338	605/SHENZHEN/08/China/HFMD_Severe/2008		2008-05-XX	Human	China		Enterovirus_A71
+6F/AUS/6/99	DQ381846	6F/AUS/6/99		20XX-XX-XX	Unknown	Australia		Enterovirus_A71
+75_Yamagata_LPS1	AB550339	75_Yamagata_LPS1		20XX-XX-XX	Unknown	Japan		Enterovirus_A71
+75_Yamagata_org	AB550338	75_Yamagata_org		20XX-XX-XX	Unknown	Japan		Enterovirus_A71
+7F_AUS_6_99	DQ341357	7F_AUS_6_99		20XX-XX-XX	Unknown	Australia		Enterovirus_A71
+804/NO/03	DQ452074	804/NO/03		2003-XX-XX	Unknown	Norway		Enterovirus_A71
+87_2008_Xi'an_Shaanxi	MK904809	87_2008_Xi'an_Shaanxi		2018-11-20	Human	China		Human_enterovirus_71
+984	DQ133458	984		2004-XX-XX	Unknown	Taiwan		Enterovirus_A71
+A2011125	KF134486	A2011125		2011-XX-XX	Human	Taiwan		Enterovirus_A71
+AFP2001064/EV71/GX/CHN/2001	JQ742001	AFP2001064/EV71/GX/CHN/2001		2001-04-XX	Human	China	71	Enterovirus_A71
+AFP2001071/EV71/GX/CHN/2001	JQ742002	AFP2001071/EV71/GX/CHN/2001		2001-04-XX	Human	China	71	Enterovirus_A71
+AH01	JF820315	AH01		2010-03-XX	Human	China		Enterovirus_A71
+AH08/06	HQ611148	AH08/06		2008-XX-XX	Human	China	C4	Enterovirus_A71
+Anhui1_09_China	GQ994988	Anhui1_09_China		2009-04-XX	Human	China	C4	Enterovirus_A71
+Anhui2007	KC954662	Anhui2007		2007-XX-XX	Human	China	71	Enterovirus_A71
+B5_03172_TW_2011	KF154354	B5_03172_TW_2011		2011-11-05	Human	Taiwan	B5	Enterovirus_A71
+B5_96015_TW_2012	KF154355	B5_96015_TW_2012		2012-04-18	Human	Taiwan	B5	Enterovirus_A71
+B5_NHRIH2011043_V110703172_TW_Nov_5_11	KF306100	B5_NHRIH2011043_V110703172_TW_Nov_5_11		2011-11-05	Human	Taiwan	B5	Enterovirus_A71
+BC08	JQ514785	BC08		2008-08-XX	Human	China	C	Enterovirus_A71
+BJ	JQ708209	BJ		2010-05-05	Human	China		Enterovirus_A71
+BJ01	JF820316	BJ01		2010-02-XX	Human	China	C4	Enterovirus_A71
+BJ02	JF820314	BJ02		2010-02-XX	Human	China	C4	Enterovirus_A71
+BJ06_SJS06	HQ129932	BJ06_SJS06		2006-XX-XX	Human	China		Enterovirus_A71
+BJ08	FJ828519	BJ08		2008-XX-XX	Human	China	C4	Enterovirus_A71
+BJ08_Z004_3	FJ606447	BJ08_Z004_3		2008-07-XX	Human	China		Enterovirus_A71
+BJ08_Z011_4	FJ606448	BJ08_Z011_4		2008-07-XX	Human	China		Enterovirus_A71
+BJ08_Z020_1	FJ606449	BJ08_Z020_1		2008-07-XX	Human	China		Enterovirus_A71
+BJ08_Z025_5	FJ606450	BJ08_Z025_5		2008-07-XX	Human	China		Enterovirus_A71
+BJ09/07	JQ319054	BJ09/07		2009-XX-XX	Human	China		Enterovirus_A71
+BJ110	HM002486	BJ110		2008-05-30	Human	China		Enterovirus_A71
+BJ293	HM053669	BJ293		2008-07-28	Human	China		Enterovirus_A71
+BJ303	HM002487	BJ303		2008-07-31	Human	China		Enterovirus_A71
+BJ366	HM002488	BJ366		2009-04-10	Human	China		Enterovirus_A71
+BJ393	HM053670	BJ393		2009-04-30	Human	China		Enterovirus_A71
+BJ398	HM002489	BJ398		2009-05-05	Human	China		Enterovirus_A71
+BJ462	HM053671	BJ462		2009-08-12	Human	China		Enterovirus_A71
+BJ67	HM002484	BJ67		2008-05-07	Human	China		Enterovirus_A71
+BJ97	HM002485	BJ97		2008-05-25	Human	China		Enterovirus_A71
+BrCr	AB204853	BrCr		20XX-XX-XX	Unknown		71	Enterovirus_A71
+BRU/2006/35334	JQ724182	BRU/2006/35334		20XX-XX-XX	Mouse	Brunei		Enterovirus_A71
+BS	KF514878	BS		20XX-XX-XX	Unknown			Enterovirus_A71
+BZ200805	HQ694983	BZ200805		2008-05-08	Human	China		Enterovirus_A71
+C1/FY08_C30_P11	GU198369	C1/FY08_C30_P11		2008-05-XX	Human	China		Enterovirus_A71
+C1/FY08_C30_P9	GU198368	C1/FY08_C30_P9		2008-05-XX	Human	China		Enterovirus_A71
+C2_NHRIEV95528_TW_Jun_25_12	KF306101	C2_NHRIEV95528_TW_Jun_25_12		2012-06-25	Human	Taiwan	C2	Enterovirus_A71
+C2/FY08_C30	GU198370	C2/FY08_C30		2008-05-XX	Human	China		Enterovirus_A71
+C4	KM593929	C4		2011-03-05	Human	Taiwan	A71	Enterovirus_A71
+C4a_01585_TW_2011	KJ186974	C4a_01585_TW_2011		2011-05-21	Human	Taiwan	C4a	Enterovirus_A71
+C4a_70365_TW_2010	KJ186973	C4a_70365_TW_2010		2010-06-02	Human	Taiwan	C4a	Enterovirus_A71
+C7/Osaka_LPS1	AB550337	C7/Osaka_LPS1		20XX-XX-XX	Unknown	Japan		Enterovirus_A71
+C7/Osaka_org	AB550336	C7/Osaka_org		20XX-XX-XX	Unknown	Japan		Enterovirus_A71
+Chongqing1_09_China	GQ994989	Chongqing1_09_China		2009-04-XX	Human	China		Enterovirus_A71
+Chongqing2_09_China	GQ994990	Chongqing2_09_China		2009-04-XX	Human	China		Enterovirus_A71
+Chongqing3_09_China	GQ994991	Chongqing3_09_China		2009-04-XX	Human	China		Enterovirus_A71
+cmuh_050530_5	HM807310	cmuh_050530_5		2005-08-XX	Human	Taiwan		Enterovirus_A71
+CQ03_1/CQ/CHN/2003	JX678874	CQ03_1/CQ/CHN/2003		2003-XX-XX	Human	China	C4	Enterovirus_A71
+CSF_CH_06	EU414333	CSF_CH_06		20XX-XX-XX	Unknown	Switzerland		Enterovirus_A71
+DL71	KF982854	DL71		2012-10-18	Human	China		Enterovirus_A71
+DTID/ZJU_62	FJ158600	DTID/ZJU_62		2008-XX-XX	Unknown	China		Enterovirus_A71
+DTID/ZJU_74	FJ158601	DTID/ZJU_74		2008-XX-XX	Unknown	China		Enterovirus_A71
+E2002042_TW_CDC	EF373575	E2002042_TW_CDC		20XX-XX-XX	Unknown	Taiwan		Enterovirus_A71
+E2004104_TW_CDC	EF373576	E2004104_TW_CDC		20XX-XX-XX	Unknown	Taiwan		Enterovirus_A71
+E2005125_TW	EF063152	E2005125_TW		20XX-XX-XX	Unknown	Taiwan		Enterovirus_A71
+ENT/PM/SHA52	AM396584	ENT/PM/SHA52		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+ENT/PM/SHA71	AM396585	ENT/PM/SHA71		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+EV003_07	HQ647173	EV003_07		2006-11-XX	Human	Canada		Enterovirus_A71
+EV034_06	HQ647180	EV034_06		2006-07-XX	Human	Canada		Enterovirus_A71
+EV049_07	HQ647176	EV049_07		2007-07-XX	Human	Canada		Enterovirus_A71
+EV053_07	HQ647175	EV053_07		2007-07-XX	Human	Canada		Enterovirus_A71
+EV054_07	HQ647167	EV054_07		2007-07-XX	Human	Canada		Enterovirus_A71
+EV063_04	HQ647172	EV063_04		1994-10-XX	Human	Canada		Enterovirus_A71
+EV073_07	HQ647177	EV073_07		2007-08-XX	Human	Canada		Enterovirus_A71
+EV082_07	HQ647178	EV082_07		2007-08-XX	Human	Canada		Enterovirus_A71
+EV090_07	HQ647169	EV090_07		2007-08-XX	Human	Canada		Enterovirus_A71
+EV123_07	HQ647174	EV123_07		2007-10-XX	Human	Canada		Enterovirus_A71
+EV124_07	HQ647170	EV124_07		2007-10-XX	Human	Canada		Enterovirus_A71
+EV141_06	HQ647171	EV141_06		2006-08-XX	Human	Canada		Enterovirus_A71
+EV144_06	HQ647179	EV144_06		2006-09-XX	Human	Canada		Enterovirus_A71
+EV71_Hubei_09_China	GU434678	EV71_Hubei_09_China		20XX-XX-XX	Human	China		Enterovirus_A71
+EV71/9/97/SHA89	AJ586873	EV71/9/97/SHA89		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+EV71/Fuyang.Anhui.P.R.C/17.08/1	EU703812	EV71/Fuyang.Anhui.P.R.C/17.08/1		2008-04-XX	Human	China		Enterovirus_A71
+EV71/Fuyang.Anhui.P.R.C/17.08/2	EU703813	EV71/Fuyang.Anhui.P.R.C/17.08/2		2008-04-XX	Human	China		Enterovirus_A71
+EV71/Fuyang.Anhui.P.R.C/17.08/3	EU703814	EV71/Fuyang.Anhui.P.R.C/17.08/3		2008-04-XX	Human	China		Enterovirus_A71
+EV71/GD10_12/2010	KJ004559	EV71/GD10_12/2010		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/GD10_45/2010	KJ004560	EV71/GD10_45/2010		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/GD10_7/2010	KJ004558	EV71/GD10_7/2010		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/GDFS/3/2008	FJ194964	EV71/GDFS/3/2008		2008-05-XX	Human	China		Enterovirus_A71
+EV71/GDSG/17/2008	FJ194965	EV71/GDSG/17/2008		2008-05-XX	Human	China	c	Enterovirus_A71
+EV71/Henan/106/2009	HQ998852	EV71/Henan/106/2009		2009-XX-XX	Human	China		Enterovirus_A71
+EV71/Henan/294/2010	HM245927	EV71/Henan/294/2010		2010-XX-XX	Human	China		Enterovirus_A71
+EV71/Henan/399/2010	HM245928	EV71/Henan/399/2010		2010-XX-XX	Human	China		Enterovirus_A71
+EV71/HENAN/DC/2010	HQ325852	EV71/HENAN/DC/2010		2010-08-20	Human	China		Enterovirus_A71
+EV71/Homo_sapiens/KHM/260/2012	KP308401	EV71/Homo_sapiens/KHM/260/2012		2012-07-09	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/268/2012	KP308453	EV71/Homo_sapiens/KHM/268/2012		2012-07-24	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/269/2012	KP308415	EV71/Homo_sapiens/KHM/269/2012		2012-07-28	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/271/2012	KP308433	EV71/Homo_sapiens/KHM/271/2012		2012-07-29	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/272/2012	KP308432	EV71/Homo_sapiens/KHM/272/2012		2012-07-29	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/274/2012	KP308448	EV71/Homo_sapiens/KHM/274/2012		2012-07-29	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/275/2012	KP308441	EV71/Homo_sapiens/KHM/275/2012		2012-07-31	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/277/2012	KP308414	EV71/Homo_sapiens/KHM/277/2012		2012-07-30	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/280/2012	KP308430	EV71/Homo_sapiens/KHM/280/2012		2012-08-07	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/284/2012	KP308420	EV71/Homo_sapiens/KHM/284/2012		2012-08-09	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/285/2012	KP308417	EV71/Homo_sapiens/KHM/285/2012		2012-08-09	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/287/2012	KP308428	EV71/Homo_sapiens/KHM/287/2012		2012-08-12	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/293/2012	KP308437	EV71/Homo_sapiens/KHM/293/2012		2012-08-20	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/295/2012	KP308436	EV71/Homo_sapiens/KHM/295/2012		2012-08-21	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/297/2012	KP308403	EV71/Homo_sapiens/KHM/297/2012		2012-08-26	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/298/2012	KP308434	EV71/Homo_sapiens/KHM/298/2012		2012-08-25	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/299/2012	KP308421	EV71/Homo_sapiens/KHM/299/2012		2012-08-25	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/300/2012	KP308451	EV71/Homo_sapiens/KHM/300/2012		2012-09-06	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/302/2012	KP308438	EV71/Homo_sapiens/KHM/302/2012		2012-09-09	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/304/2012	KP308408	EV71/Homo_sapiens/KHM/304/2012		2012-09-16	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/308/2012	KP308456	EV71/Homo_sapiens/KHM/308/2012		2012-11-05	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/309/2012	KP308404	EV71/Homo_sapiens/KHM/309/2012		2012-11-07	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/310/2012	KP308402	EV71/Homo_sapiens/KHM/310/2012		2012-11-13	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/311/2012	KP308439	EV71/Homo_sapiens/KHM/311/2012		2012-11-23	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/312/2012	KP308427	EV71/Homo_sapiens/KHM/312/2012		2012-12-06	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/313/2012	KP308435	EV71/Homo_sapiens/KHM/313/2012		2012-12-08	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/315/2013	KP308431	EV71/Homo_sapiens/KHM/315/2013		2013-02-06	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/316/2013	KP308458	EV71/Homo_sapiens/KHM/316/2013		2013-02-25	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/319/2013	KP308426	EV71/Homo_sapiens/KHM/319/2013		2013-09-23	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/330/2012	KP308445	EV71/Homo_sapiens/KHM/330/2012		2012-07-12	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/336/2012	KP308459	EV71/Homo_sapiens/KHM/336/2012		2012-07-12	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/342/2012	KP308410	EV71/Homo_sapiens/KHM/342/2012		2012-07-13	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/349/2012	KP308447	EV71/Homo_sapiens/KHM/349/2012		2012-07-16	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/351/2012	KP308411	EV71/Homo_sapiens/KHM/351/2012		2012-07-14	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/352/2012	KP308419	EV71/Homo_sapiens/KHM/352/2012		2012-07-14	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/353/2012	KP308409	EV71/Homo_sapiens/KHM/353/2012		2012-07-14	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/354/2012	KP308416	EV71/Homo_sapiens/KHM/354/2012		2012-07-14	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/359/2012	KP308429	EV71/Homo_sapiens/KHM/359/2012		2012-07-16	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/360/2012	KP308446	EV71/Homo_sapiens/KHM/360/2012		2012-07-16	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/361/2012	KP308423	EV71/Homo_sapiens/KHM/361/2012		2012-07-16	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/362/2012	KP308422	EV71/Homo_sapiens/KHM/362/2012		2012-07-16	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/367/2012	KP308450	EV71/Homo_sapiens/KHM/367/2012		2012-07-14	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/368/2012	KP308442	EV71/Homo_sapiens/KHM/368/2012		2012-07-14	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/371/2012	KP308454	EV71/Homo_sapiens/KHM/371/2012		2012-07-14	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/374/2012	KP308425	EV71/Homo_sapiens/KHM/374/2012		2012-07-17	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/375/2012	KP308440	EV71/Homo_sapiens/KHM/375/2012		2012-07-16	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/376/2012	KP308405	EV71/Homo_sapiens/KHM/376/2012		2012-07-16	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/377/2012	KP308412	EV71/Homo_sapiens/KHM/377/2012		2012-07-16	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/378/2012	KP308449	EV71/Homo_sapiens/KHM/378/2012		2012-07-16	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/382/2012	KP308457	EV71/Homo_sapiens/KHM/382/2012		2012-06-17	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/384/2012	KP308407	EV71/Homo_sapiens/KHM/384/2012		2012-07-17	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/388/2012	KP308424	EV71/Homo_sapiens/KHM/388/2012		2012-07-19	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/392/2012	KP308418	EV71/Homo_sapiens/KHM/392/2012		2012-07-21	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/393/2012	KP308452	EV71/Homo_sapiens/KHM/393/2012		2012-07-24	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/394/2012	KP308443	EV71/Homo_sapiens/KHM/394/2012		2012-07-25	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/397/2012	KP308406	EV71/Homo_sapiens/KHM/397/2012		2012-08-31	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/398/2012	KP308444	EV71/Homo_sapiens/KHM/398/2012		2012-07-16	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/KHM/400/XXXX	KP308460	EV71/Homo_sapiens/KHM/400/XXXX		20XX-XX-XX	Human	Cambodia		Enterovirus_A71
+EV71/Homo_sapiens/VNM/1/2011	KJ686299	EV71/Homo_sapiens/VNM/1/2011		2011-08-28	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/10/2011	KJ686164	EV71/Homo_sapiens/VNM/10/2011		2011-10-10	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/101/2012	KJ686181	EV71/Homo_sapiens/VNM/101/2012		2012-03-27	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/103/2012	KJ686195	EV71/Homo_sapiens/VNM/103/2012		2012-03-27	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/105/2012	KJ686162	EV71/Homo_sapiens/VNM/105/2012		2012-03-29	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/107/2012	KJ686241	EV71/Homo_sapiens/VNM/107/2012		2012-03-29	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/108/2012	KJ686214	EV71/Homo_sapiens/VNM/108/2012		2012-03-29	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/109/2012	KJ686150	EV71/Homo_sapiens/VNM/109/2012		2012-03-30	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/11/2011	KJ686242	EV71/Homo_sapiens/VNM/11/2011		2011-10-11	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/110/2012	KJ686174	EV71/Homo_sapiens/VNM/110/2012		2012-03-31	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/111/2012	KJ686156	EV71/Homo_sapiens/VNM/111/2012		2012-03-31	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/113/2012	KJ686225	EV71/Homo_sapiens/VNM/113/2012		2012-04-03	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/114/2012	KJ686205	EV71/Homo_sapiens/VNM/114/2012		2012-04-07	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/116/2012	KJ686168	EV71/Homo_sapiens/VNM/116/2012		2012-04-11	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/117/2012	KJ686138	EV71/Homo_sapiens/VNM/117/2012		2012-04-12	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/119/2012	KJ686267	EV71/Homo_sapiens/VNM/119/2012		2012-04-12	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/12/2011	KJ686301	EV71/Homo_sapiens/VNM/12/2011		2011-10-11	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/121/2012	KJ686277	EV71/Homo_sapiens/VNM/121/2012		2012-04-16	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/122/2012	KJ686132	EV71/Homo_sapiens/VNM/122/2012		2012-04-17	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/123/2012	KJ686131	EV71/Homo_sapiens/VNM/123/2012		2012-04-18	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/127/2012	KJ686248	EV71/Homo_sapiens/VNM/127/2012		2012-04-21	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/128/2012	KJ686220	EV71/Homo_sapiens/VNM/128/2012		2012-04-22	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/129/2012	KJ686296	EV71/Homo_sapiens/VNM/129/2012		2012-04-22	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/13/2011	KJ686158	EV71/Homo_sapiens/VNM/13/2011		2011-10-11	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/130/2012	KJ686282	EV71/Homo_sapiens/VNM/130/2012		2012-04-24	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/131/2012	KJ686263	EV71/Homo_sapiens/VNM/131/2012		2012-04-25	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/132/2012	KJ686146	EV71/Homo_sapiens/VNM/132/2012		2012-04-25	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/133/2012	KJ686137	EV71/Homo_sapiens/VNM/133/2012		2012-04-25	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/134/2012	KJ686289	EV71/Homo_sapiens/VNM/134/2012		2012-04-25	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/135/2012	KJ686152	EV71/Homo_sapiens/VNM/135/2012		2012-05-02	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/136/2012	KJ686163	EV71/Homo_sapiens/VNM/136/2012		2012-05-02	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/138/2012	KJ686196	EV71/Homo_sapiens/VNM/138/2012		2012-05-04	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/14/2011	KJ686209	EV71/Homo_sapiens/VNM/14/2011		2011-10-16	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/142/2012	KJ686216	EV71/Homo_sapiens/VNM/142/2012		2012-05-09	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/143/2012	KJ686155	EV71/Homo_sapiens/VNM/143/2012		2012-05-11	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/144/2012	KJ686293	EV71/Homo_sapiens/VNM/144/2012		2012-05-12	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/148/2012	KJ686236	EV71/Homo_sapiens/VNM/148/2012		2012-05-21	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/149/2012	KJ686254	EV71/Homo_sapiens/VNM/149/2012		2012-05-22	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/15/2011	KJ686179	EV71/Homo_sapiens/VNM/15/2011		2011-10-16	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/150/2012	KJ686129	EV71/Homo_sapiens/VNM/150/2012		2012-05-24	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/151/2012	KJ686300	EV71/Homo_sapiens/VNM/151/2012		2012-05-25	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/152/2012	KJ686128	EV71/Homo_sapiens/VNM/152/2012		2012-05-28	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/153/2012	KJ686151	EV71/Homo_sapiens/VNM/153/2012		2012-05-31	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/154/2012	KJ686224	EV71/Homo_sapiens/VNM/154/2012		2012-06-06	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/155/2012	KJ686287	EV71/Homo_sapiens/VNM/155/2012		2012-06-06	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/156/2012	KJ686271	EV71/Homo_sapiens/VNM/156/2012		2012-06-15	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/157/2012	KJ686226	EV71/Homo_sapiens/VNM/157/2012		2012-06-20	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/159/2012	KJ686253	EV71/Homo_sapiens/VNM/159/2012		2012-06-29	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/16/2011	KJ686275	EV71/Homo_sapiens/VNM/16/2011		2011-10-16	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/160/2012	KJ686199	EV71/Homo_sapiens/VNM/160/2012		2012-07-04	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/161/2012	KJ686157	EV71/Homo_sapiens/VNM/161/2012		2012-07-20	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/162/2012	KJ686201	EV71/Homo_sapiens/VNM/162/2012		2012-07-21	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/163/2012	KJ686266	EV71/Homo_sapiens/VNM/163/2012		2012-08-20	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/164/2012	KJ686219	EV71/Homo_sapiens/VNM/164/2012		2012-08-23	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/166/2012	KJ686249	EV71/Homo_sapiens/VNM/166/2012		2012-09-08	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/167/2012	KJ686295	EV71/Homo_sapiens/VNM/167/2012		2012-09-08	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/168/2012	KJ686176	EV71/Homo_sapiens/VNM/168/2012		2012-09-20	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/169/2012	KJ686246	EV71/Homo_sapiens/VNM/169/2012		2012-09-21	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/17/2011	KJ686178	EV71/Homo_sapiens/VNM/17/2011		2011-10-19	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/170/2012	KJ686252	EV71/Homo_sapiens/VNM/170/2012		2012-10-06	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/171/2012	KJ686270	EV71/Homo_sapiens/VNM/171/2012		2012-10-23	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/173/2012	KJ686250	EV71/Homo_sapiens/VNM/173/2012		2012-10-30	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/174/2012	KJ686211	EV71/Homo_sapiens/VNM/174/2012		2012-11-02	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/175/2012	KJ686159	EV71/Homo_sapiens/VNM/175/2012		2012-11-02	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/176/2012	KJ686234	EV71/Homo_sapiens/VNM/176/2012		2012-11-03	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/177/2012	KJ686264	EV71/Homo_sapiens/VNM/177/2012		2012-11-07	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/178/2012	KJ686134	EV71/Homo_sapiens/VNM/178/2012		2012-11-15	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/179/2012	KJ686222	EV71/Homo_sapiens/VNM/179/2012		2012-11-22	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/180/2012	KJ686140	EV71/Homo_sapiens/VNM/180/2012		2012-11-23	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/184/2012	KJ686193	EV71/Homo_sapiens/VNM/184/2012		2012-12-21	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/185/2012	KJ686192	EV71/Homo_sapiens/VNM/185/2012		2012-12-20	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/186/2011	KJ686189	EV71/Homo_sapiens/VNM/186/2011		2011-09-28	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/189/2011	KJ686232	EV71/Homo_sapiens/VNM/189/2011		2011-09-29	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/19/2011	KJ686173	EV71/Homo_sapiens/VNM/19/2011		2011-10-21	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/191/2011	KJ686308	EV71/Homo_sapiens/VNM/191/2011		2011-10-04	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/192/2011	KJ686297	EV71/Homo_sapiens/VNM/192/2011		2011-10-05	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/193/2011	KJ686153	EV71/Homo_sapiens/VNM/193/2011		2011-10-06	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/195/2011	KJ686230	EV71/Homo_sapiens/VNM/195/2011		2011-10-07	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/196/2011	KJ686154	EV71/Homo_sapiens/VNM/196/2011		2011-10-07	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/197/2011	KJ686145	EV71/Homo_sapiens/VNM/197/2011		2011-10-10	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/198/2011	KJ686190	EV71/Homo_sapiens/VNM/198/2011		2011-10-10	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/199/2011	KJ686187	EV71/Homo_sapiens/VNM/199/2011		2011-10-12	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/2/2011	KJ686177	EV71/Homo_sapiens/VNM/2/2011		2011-08-30	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/200/2011	KJ686133	EV71/Homo_sapiens/VNM/200/2011		2011-10-14	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/202/2011	KJ686208	EV71/Homo_sapiens/VNM/202/2011		2011-10-14	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/205/2011	KJ686198	EV71/Homo_sapiens/VNM/205/2011		2011-10-20	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/206/2011	KJ686233	EV71/Homo_sapiens/VNM/206/2011		2011-10-23	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/208/2011	KJ686294	EV71/Homo_sapiens/VNM/208/2011		2011-10-25	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/209/2011	KJ686278	EV71/Homo_sapiens/VNM/209/2011		2011-10-26	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/210/2011	KJ686231	EV71/Homo_sapiens/VNM/210/2011		2011-10-31	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/211/2011	KJ686290	EV71/Homo_sapiens/VNM/211/2011		2011-11-04	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/212/2011	KJ686237	EV71/Homo_sapiens/VNM/212/2011		2011-11-05	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/213/2011	KJ686141	EV71/Homo_sapiens/VNM/213/2011		2011-11-06	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/215/2011	KJ686307	EV71/Homo_sapiens/VNM/215/2011		2011-11-10	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/216/2011	KJ686304	EV71/Homo_sapiens/VNM/216/2011		2011-11-12	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/218/2011	KJ686218	EV71/Homo_sapiens/VNM/218/2011		2011-11-14	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/219/2011	KJ686127	EV71/Homo_sapiens/VNM/219/2011		2011-11-17	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/22/2011	KJ686276	EV71/Homo_sapiens/VNM/22/2011		2011-10-24	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/221/2011	KJ686215	EV71/Homo_sapiens/VNM/221/2011		2011-11-22	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/222/2011	KJ686257	EV71/Homo_sapiens/VNM/222/2011		2011-11-22	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/225/2011	KJ686165	EV71/Homo_sapiens/VNM/225/2011		2011-11-26	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/227/2011	KJ686239	EV71/Homo_sapiens/VNM/227/2011		2011-11-30	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/228/2011	KJ686167	EV71/Homo_sapiens/VNM/228/2011		2011-11-30	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/229/2011	KJ686223	EV71/Homo_sapiens/VNM/229/2011		2011-11-30	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/23/2011	KJ686161	EV71/Homo_sapiens/VNM/23/2011		2011-10-24	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/230/2011	KJ686284	EV71/Homo_sapiens/VNM/230/2011		2011-11-30	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/233/2011	KJ686298	EV71/Homo_sapiens/VNM/233/2011		2011-12-02	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/235/2011	KJ686136	EV71/Homo_sapiens/VNM/235/2011		2011-12-04	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/236/2011	KJ686261	EV71/Homo_sapiens/VNM/236/2011		2011-12-04	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/237/2011	KJ686207	EV71/Homo_sapiens/VNM/237/2011		2011-12-04	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/238/2011	KJ686247	EV71/Homo_sapiens/VNM/238/2011		2011-12-05	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/24/2011	KJ686265	EV71/Homo_sapiens/VNM/24/2011		2011-10-25	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/241/2011	KJ686200	EV71/Homo_sapiens/VNM/241/2011		2011-12-05	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/242/2011	KJ686272	EV71/Homo_sapiens/VNM/242/2011		2011-12-06	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/243/2011	KJ686273	EV71/Homo_sapiens/VNM/243/2011		2011-12-07	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/245/2011	KJ686175	EV71/Homo_sapiens/VNM/245/2011		2011-12-13	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/246/2011	KJ686279	EV71/Homo_sapiens/VNM/246/2011		2011-12-13	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/247/2011	KJ686172	EV71/Homo_sapiens/VNM/247/2011		2011-12-14	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/249/2011	KJ686143	EV71/Homo_sapiens/VNM/249/2011		2011-12-23	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/25/2011	KJ686185	EV71/Homo_sapiens/VNM/25/2011		2011-10-29	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/250/2011	KJ686255	EV71/Homo_sapiens/VNM/250/2011		2011-12-23	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/26/2011	KJ686217	EV71/Homo_sapiens/VNM/26/2011		2011-10-29	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/27/2011	KJ686221	EV71/Homo_sapiens/VNM/27/2011		2011-11-10	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/28/2011	KJ686227	EV71/Homo_sapiens/VNM/28/2011		2011-11-14	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/29/2011	KJ686171	EV71/Homo_sapiens/VNM/29/2011		2011-11-14	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/3/2011	KJ686212	EV71/Homo_sapiens/VNM/3/2011		2011-09-15	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/31/2011	KJ686228	EV71/Homo_sapiens/VNM/31/2011		2011-11-26	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/32/2011	KJ686188	EV71/Homo_sapiens/VNM/32/2011		2011-11-27	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/33/2011	KJ686204	EV71/Homo_sapiens/VNM/33/2011		2011-11-30	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/34/2011	KJ686303	EV71/Homo_sapiens/VNM/34/2011		2011-12-08	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/35/2011	KJ686142	EV71/Homo_sapiens/VNM/35/2011		2011-12-09	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/36/2011	KJ686260	EV71/Homo_sapiens/VNM/36/2011		2011-12-16	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/37/2011	KJ686184	EV71/Homo_sapiens/VNM/37/2011		2011-12-16	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/38/2011	KJ686288	EV71/Homo_sapiens/VNM/38/2011		2011-12-18	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/39/2011	KJ686147	EV71/Homo_sapiens/VNM/39/2011		2011-12-23	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/4/2011	KJ686229	EV71/Homo_sapiens/VNM/4/2011		2011-09-18	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/40/2011	KJ686186	EV71/Homo_sapiens/VNM/40/2011		2011-12-24	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/41/2011	KJ686166	EV71/Homo_sapiens/VNM/41/2011		2011-12-28	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/42/2011	KJ686258	EV71/Homo_sapiens/VNM/42/2011		2011-12-29	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/43/2012	KJ686139	EV71/Homo_sapiens/VNM/43/2012		2012-01-01	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/44/2012	KJ686240	EV71/Homo_sapiens/VNM/44/2012		2012-01-01	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/45/2012	KJ686291	EV71/Homo_sapiens/VNM/45/2012		2012-01-06	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/46/2012	KJ686160	EV71/Homo_sapiens/VNM/46/2012		2012-01-13	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/47/2012	KJ686269	EV71/Homo_sapiens/VNM/47/2012		2012-01-13	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/49/2012	KJ686274	EV71/Homo_sapiens/VNM/49/2012		2012-01-17	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/5/2011	KJ686191	EV71/Homo_sapiens/VNM/5/2011		2011-09-26	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/50/2012	KJ686285	EV71/Homo_sapiens/VNM/50/2012		2012-01-18	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/51/2012	KJ686206	EV71/Homo_sapiens/VNM/51/2012		2012-01-19	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/52/2012	KJ686251	EV71/Homo_sapiens/VNM/52/2012		2012-01-22	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/53/2012	KJ686262	EV71/Homo_sapiens/VNM/53/2012		2012-01-25	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/54/2012	KJ686148	EV71/Homo_sapiens/VNM/54/2012		2012-01-27	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/55/2012	KJ686283	EV71/Homo_sapiens/VNM/55/2012		2012-02-01	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/57/2012	KJ686149	EV71/Homo_sapiens/VNM/57/2012		2012-02-03	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/58/2012	KJ686259	EV71/Homo_sapiens/VNM/58/2012		2012-02-04	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/59/2012	KJ686306	EV71/Homo_sapiens/VNM/59/2012		2012-02-06	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/6/2011	KJ686183	EV71/Homo_sapiens/VNM/6/2011		2011-09-26	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/61/2012	KJ686243	EV71/Homo_sapiens/VNM/61/2012		2012-02-06	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/62/2012	KJ686302	EV71/Homo_sapiens/VNM/62/2012		2012-02-07	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/63/2012	KJ686305	EV71/Homo_sapiens/VNM/63/2012		2012-02-07	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/64/2012	KJ686197	EV71/Homo_sapiens/VNM/64/2012		2012-02-13	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/66/2012	KJ686213	EV71/Homo_sapiens/VNM/66/2012		2012-02-14	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/67/2012	KJ686203	EV71/Homo_sapiens/VNM/67/2012		2012-02-15	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/7/2011	KJ686238	EV71/Homo_sapiens/VNM/7/2011		2011-09-29	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/71/2012	KJ686194	EV71/Homo_sapiens/VNM/71/2012		2012-02-23	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/72/2012	KJ686281	EV71/Homo_sapiens/VNM/72/2012		2012-02-24	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/73/2012	KJ686244	EV71/Homo_sapiens/VNM/73/2012		2012-02-26	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/75/2012	KJ686135	EV71/Homo_sapiens/VNM/75/2012		2012-02-27	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/77/2012	KJ686256	EV71/Homo_sapiens/VNM/77/2012		2012-02-28	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/78/2012	KJ686268	EV71/Homo_sapiens/VNM/78/2012		2012-02-29	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/79/2012	KJ686292	EV71/Homo_sapiens/VNM/79/2012		2012-02-29	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/8/2011	KJ686169	EV71/Homo_sapiens/VNM/8/2011		2011-10-07	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/80/2012	KJ686130	EV71/Homo_sapiens/VNM/80/2012		2012-03-01	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/89/2012	KJ686280	EV71/Homo_sapiens/VNM/89/2012		2012-03-08	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/9/2011	KJ686182	EV71/Homo_sapiens/VNM/9/2011		2011-10-10	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/90/2012	KJ686245	EV71/Homo_sapiens/VNM/90/2012		2012-03-09	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/91/2012	KJ686210	EV71/Homo_sapiens/VNM/91/2012		2012-03-13	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/93/2012	KJ686170	EV71/Homo_sapiens/VNM/93/2012		2012-03-17	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/94/2012	KJ686144	EV71/Homo_sapiens/VNM/94/2012		2012-03-18	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/96/2012	KJ686202	EV71/Homo_sapiens/VNM/96/2012		2012-03-19	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/97/2012	KJ686180	EV71/Homo_sapiens/VNM/97/2012		2012-03-20	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/98/2012	KJ686235	EV71/Homo_sapiens/VNM/98/2012		2012-03-22	Human	Viet_Nam		Enterovirus_A71
+EV71/Homo_sapiens/VNM/99/2012	KJ686286	EV71/Homo_sapiens/VNM/99/2012		2012-03-25	Human	Viet_Nam		Enterovirus_A71
+EV71/Hubei_XF/CHN/2010	JQ804832	EV71/Hubei_XF/CHN/2010		2010-09-01	Human	China	C4	Enterovirus_A71
+EV71/Hun11_32/2011	KJ004552	EV71/Hun11_32/2011		2011-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Hun11_4/2011	KJ004553	EV71/Hun11_4/2011		2011-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Hun12_10/2012	KJ004555	EV71/Hun12_10/2012		2012-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Hun12_14/2012	KJ004554	EV71/Hun12_14/2012		2012-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Jinan1002	JQ074187	EV71/Jinan1002		2010-07-XX	Human	China		Enterovirus_A71
+EV71/Jinan1004	JQ074188	EV71/Jinan1004		2010-07-XX	Human	China		Enterovirus_A71
+EV71/Jinan1005	JQ074189	EV71/Jinan1005		2010-07-XX	Human	China		Enterovirus_A71
+EV71/Jinan1006	JQ074190	EV71/Jinan1006		2010-07-XX	Human	China		Enterovirus_A71
+EV71/JN200803	JF913464	EV71/JN200803		2008-07-XX	Human	China		Enterovirus_A71
+EV71/JN200804	HQ825317	EV71/JN200804		2008-07-XX	Human	China		Enterovirus_A71
+EV71/Lanzhou01	GU396280	EV71/Lanzhou01		2009-XX-XX	Human	China	C	Enterovirus_A71
+EV71/Ningbo.CHN/001/2010	JN864018	EV71/Ningbo.CHN/001/2010		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Ningbo.CHN/002/2010	JN864019	EV71/Ningbo.CHN/002/2010		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Ningbo.CHN/061/2011	JQ086366	EV71/Ningbo.CHN/061/2011		2011-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Ningbo.CHN/065/2010	JF830007	EV71/Ningbo.CHN/065/2010		2010-06-XX	Human	China		Enterovirus_A71
+EV71/Ningbo.CHN/069/2010	JN864020	EV71/Ningbo.CHN/069/2010		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Ningbo.CHN/076/2009	JN864021	EV71/Ningbo.CHN/076/2009		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Ningbo.CHN/087/2009	JN864022	EV71/Ningbo.CHN/087/2009		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Ningbo.CHN/103/2009	JN864023	EV71/Ningbo.CHN/103/2009		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Ningbo.CHN/107_2/2009	JQ086365	EV71/Ningbo.CHN/107_2/2009		2011-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/Ningbo.CHN/107/2009	JN864024	EV71/Ningbo.CHN/107/2009		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/NX10_147/2010	KJ004556	EV71/NX10_147/2010		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/NX10_36/2010	KJ004557	EV71/NX10_36/2010		2010-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/P1027/2013/China	KP289417	EV71/P1027/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P1031/2013/China	KP289418	EV71/P1031/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P1034/2013/China	KP289419	EV71/P1034/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P123/2013/China	KP289420	EV71/P123/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P156/2013/China	KP289421	EV71/P156/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P16/2013/China	KP289422	EV71/P16/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P222/2013/China	KP289423	EV71/P222/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P267/2013/China	KP289424	EV71/P267/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P352/2013/China	KP289425	EV71/P352/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P40/2013/China	KP289426	EV71/P40/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P454/2013/China	KP289427	EV71/P454/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P63/2013/China	KP289428	EV71/P63/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P654/2013/China	KP289429	EV71/P654/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P868/2013/China	KP289430	EV71/P868/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P977/2013/China	KP289431	EV71/P977/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/P990/2013/China	KP289432	EV71/P990/2013/China		2013-XX-XX	Human	China		Enterovirus_A71
+EV71/Queenmary/HongKong/2012	KF444809	EV71/Queenmary/HongKong/2012		2012-XX-XX	Human	China	C4	Enterovirus_A71
+EV71/SAR/SHA63	AM396588	EV71/SAR/SHA63		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+EV71/SAR/SHA66	AM396586	EV71/SAR/SHA66		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+EV71/wuhan/3018/2010	KF501389	EV71/wuhan/3018/2010		2010-XX-XX	Human	China	A	Enterovirus_A71
+EV71/Xiamen/2009	JN964686	EV71/Xiamen/2009		2009-XX-XX	Human	China		Enterovirus_A71
+EV71/Zhejiang08	EU864507	EV71/Zhejiang08		2008-XX-XX	Human	China		Enterovirus_A71
+EV92_07	HQ647168	EV92_07		2007-08-XX	Human	Canada		Enterovirus_A71
+Fuyang_0805	FJ439769	Fuyang_0805		2008-05-XX	Human	China		Enterovirus_A71
+Fuyang_0805a	HQ188292	Fuyang_0805a		20XX-XX-XX	Unknown	China		Enterovirus_A71
+Fuyang200805	HQ694984	Fuyang200805		2008-05-15	Human	China		Enterovirus_A71
+FY08_C30_P14	GU198371	FY08_C30_P14		2008-05-XX	Human	China		Enterovirus_A71
+FY08_C30_P2	GU198367	FY08_C30_P2		2008-05-XX	Human	China		Enterovirus_A71
+FY0805	HQ882182	FY0805		2008-05-12	Human	China	C4	Enterovirus_A71
+FY17.08_4/AH/CHN/2008	JX678875	FY17.08_4/AH/CHN/2008		2008-04-XX	Human	China	C4	Enterovirus_A71
+FY17.08_5/AH/CHN/2008	JX678876	FY17.08_5/AH/CHN/2008		2008-04-XX	Human	China	C4	Enterovirus_A71
+FY17.08_6/AH/CHN/2008	JX678877	FY17.08_6/AH/CHN/2008		2008-04-XX	Human	China	C4	Enterovirus_A71
+FY17.08_7/AH/CHN/2008	JX678878	FY17.08_7/AH/CHN/2008		2008-04-XX	Human	China	C4	Enterovirus_A71
+FY17.08_8/AH/CHN/2008	JX678879	FY17.08_8/AH/CHN/2008		2008-04-XX	Human	China	C4	Enterovirus_A71
+FY23	EU812515	FY23		2008-05-XX	Unknown	China		Enterovirus_A71
+FY23_K12	GU459070	FY23_K12		2008-XX-XX	Human	China	C4	Enterovirus_A71
+FY23_K14	GU459071	FY23_K14		2008-XX-XX	Human	China		Enterovirus_A71
+FY7VP5/AH/CHN/2008	JX025561	FY7VP5/AH/CHN/2008		2008-XX-XX	Human	China		Enterovirus_A71
+G288_927F/HeN/CHN/2009	JN256059	G288_927F/HeN/CHN/2009		20XX-XX-XX	Human	China	C4a	Enterovirus_A71
+G333_972F/HeN/CHN/2009	JN256060	G333_972F/HeN/CHN/2009		20XX-XX-XX	Human	China	C4a	Enterovirus_A71
+G398_1037F/HeN/CHN/2009	JN256061	G398_1037F/HeN/CHN/2009		20XX-XX-XX	Human	China		Enterovirus_A71
+GD_DG2011_1	JX111888	GD_DG2011_1		2011-04-18	Human	China	C4	Enterovirus_A71
+GD_DG2011_2	JX111889	GD_DG2011_2		2011-04-19	Human	China	C4	Enterovirus_A71
+GD_DG2011_3	JX111890	GD_DG2011_3		2011-04-19	Human	China	C4	Enterovirus_A71
+GD_DG2011_5	JX111891	GD_DG2011_5		2011-04-27	Human	China	C4	Enterovirus_A71
+GD_DG2011_8	JX111892	GD_DG2011_8		2011-05-08	Human	China	C4	Enterovirus_A71
+GD_DG2011_9	JX111893	GD_DG2011_9		2011-06-23	Human	China	C4	Enterovirus_A71
+GDV103	KC954663	GDV103		2008-XX-XX	Human	China	71	Enterovirus_A71
+Guangdong_2009	JF799986	Guangdong_2009		2009-XX-XX	Human	China		Enterovirus_A71
+GX/LZ_08_04/08/CHN	GQ892830	GX/LZ_08_04/08/CHN		2008-04-XX	Human	China		Enterovirus_A71
+GZ_08_01	FJ360544	GZ_08_01		2008-05-XX	Human	China		Enterovirus_A71
+GZ_08_02	FJ360545	GZ_08_02		2008-05-XX	Human	China		Enterovirus_A71
+GZ_08_03	FJ360546	GZ_08_03		2008-05-XX	Human	China		Enterovirus_A71
+H3_TY	KF668443	H3_TY		2009-09-28	Human	China	C4	Enterovirus_A71
+H8_1	JQ681218	H8_1		2008-XX-XX	Human	China		Enterovirus_A71
+HCM120_VNM_2011	KC296445	HCM120_VNM_2011		2011-05-20	Human	Viet_Nam		Enterovirus_A71
+HCM82_VNM_2011	KC296443	HCM82_VNM_2011		2011-05-03	Human	Viet_Nam		Enterovirus_A71
+HCM84_VNM_2011	KC296444	HCM84_VNM_2011		2011-05-03	Human	Viet_Nam		Enterovirus_A71
+HeN09_1/HeN/CHN/2009	JX678880	HeN09_1/HeN/CHN/2009		2009-02-16	Human	China	C4	Enterovirus_A71
+HeN09_17/HeN/CHN/2009	JX678881	HeN09_17/HeN/CHN/2009		2009-02-22	Human	China	C4	Enterovirus_A71
+Henan_ZMD/CHN/2012	KP198624	Henan_ZMD/CHN/2012		2012-04-01	Human	China		Enterovirus_A71
+Henan1_09_China	GU196833	Henan1_09_China		2009-04-XX	Human	China		Enterovirus_A71
+Henan10_08_China	GU366191	Henan10_08_China		2008-04-XX	Human	China		Enterovirus_A71
+Henan2_09_China	GQ994992	Henan2_09_China		2009-04-XX	Human	China		Enterovirus_A71
+HN1360/HN/CHN/2011	JQ639383	HN1360/HN/CHN/2011		2011-XX-XX	Human	China		Enterovirus_A71
+HN318/HN/CHN/2011	JQ639384	HN318/HN/CHN/2011		2011-03-11	Human	China		Enterovirus_A71
+HNCZ/201203	KF142411	HNCZ/201203		2013-05-04	Human	China		Enterovirus_A71
+HNCZ/201208	KF142412	HNCZ/201208		2013-05-04	Human	China		Enterovirus_A71
+HNCZ/201211	KF142413	HNCZ/201211		2013-05-04	Human	China		Enterovirus_A71
+HQ09231463	JQ316638	HQ09231463		2011-08-02	Human	China		Enterovirus_A71
+Hubei_HG/CHN/2012	KJ508182	Hubei_HG/CHN/2012		2012-07-09	Human	China		Enterovirus_A71
+Hubei_WH/CHN/2012	KP198623	Hubei_WH/CHN/2012		2012-05-26	Human	China		Enterovirus_A71
+HUN/1978	HQ189392	HUN/1978		1978-XX-XX	Human	Hungary		Enterovirus_A71
+HuzhouE371/2011/CHN	KJ784495	HuzhouE371/2011/CHN		2011-04-20	Unknown	China		Enterovirus_A71
+HuzhouE696/2012/CHN	KJ784496	HuzhouE696/2012/CHN		2012-04-20	Unknown	China		Enterovirus_A71
+IM11	KM673244	IM11		20XX-XX-XX	Human	China		Enterovirus_A71
+J115_MAL_01	DQ341360	J115_MAL_01		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+JiLin_11_China	KC414134	JiLin_11_China		2011-08-15	Human	China	71	Enterovirus_A71
+JK2009	HQ694982	JK2009		2008-05-08	Human	China		Enterovirus_A71
+Kaifeng/2010	JQ517316	Kaifeng/2010		2010-04-XX	Human	China		Enterovirus_A71
+KED005_LPS2	AB550341	KED005_LPS2		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+KED005_org	AB550340	KED005_org		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+KM186/09	HQ423143	KM186/09		2009-05-XX	Human	China		Enterovirus_A71
+KMM/09	HQ423142	KMM/09		2009-05-XX	Human	China		Enterovirus_A71
+Laos2011_HFMD12V	KM055005	Laos2011_HFMD12V		2011-05-17	Human	Laos	A71	Enterovirus_A71
+LAZ60_TR	JX025559	LAZ60_TR		2010-04-06	Unknown	Australia	C2	Enterovirus_A71
+LCH01	JF820312	LCH01		2010-01-XX	Human	China	C4	Enterovirus_A71
+LCH02	JF820313	LCH02		2010-01-XX	Human	China	C4	Enterovirus_A71
+LN009	HQ407557	LN009		2010-XX-XX	Human	China		Enterovirus_A71
+LR_CH_06	EU414331	LR_CH_06		20XX-XX-XX	Unknown	Switzerland		Enterovirus_A71
+Luoyang/2011	JN020147	Luoyang/2011		2011-04-XX	Human	China		Enterovirus_A71
+M0380_TW08	FJ357385	M0380_TW08		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+M1089_TW12	KF974797	M1089_TW12		2012-XX-XX	Human	Taiwan		Enterovirus_A71
+M1288_TW08	KF974786	M1288_TW08		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+M1473_TW08	KF974783	M1473_TW08		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+M1577_TW12	KF974798	M1577_TW12		2012-XX-XX	Human	Taiwan		Enterovirus_A71
+M1644_TW08	KF974787	M1644_TW08		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+M1656_TW08	KF974788	M1656_TW08		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+M183_1176F/HeN/CHN/2009	JN256062	M183_1176F/HeN/CHN/2009		20XX-XX-XX	Human	China	C4a	Enterovirus_A71
+M186_1179F/HeN/CHN/2009	JN256063	M186_1179F/HeN/CHN/2009		20XX-XX-XX	Human	China		Enterovirus_A71
+M188_1181F/HeN/CHN/2009	JN256064	M188_1181F/HeN/CHN/2009		20XX-XX-XX	Human	China		Enterovirus_A71
+M202_TW12	KF974794	M202_TW12		2012-XX-XX	Human	Taiwan		Enterovirus_A71
+M245_TW08	KF974784	M245_TW08		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+M314_TW08	KF974779	M314_TW08		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+M448_TW08	KF974780	M448_TW08		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+M538_TW12	KF974790	M538_TW12		2012-XX-XX	Human	Taiwan		Enterovirus_A71
+M617_TW12	KF974791	M617_TW12		2012-XX-XX	Human	Taiwan		Enterovirus_A71
+M654_TW12	KF974795	M654_TW12		2012-XX-XX	Human	Taiwan		Enterovirus_A71
+M665_TW08	KF974781	M665_TW08		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+M668_TW08	KF974785	M668_TW08		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+M707_TW08	KF974782	M707_TW08		2008-XX-XX	Human	Taiwan		Enterovirus_A71
+M957_TW12	KF974796	M957_TW12		2012-XX-XX	Human	Taiwan		Enterovirus_A71
+M988_TW12	KF974792	M988_TW12		2012-XX-XX	Human	Taiwan		Enterovirus_A71
+M990_TW12	KF974793	M990_TW12		2012-XX-XX	Human	Taiwan		Enterovirus_A71
+MP10	HQ712020	MP10		2010-10-09	Human	China		Enterovirus_A71
+MP10_2	JF894383	MP10_2		2011-03-10	Human	China		Enterovirus_A71
+MP10_2010	HQ694986	MP10_2010		2010-09-19	Human	China		Enterovirus_A71
+MP4	JN544419	MP4		2004-01-01	Mouse	China	C2	Enterovirus_A71
+MP9_1	JF894381	MP9_1		2011-03-05	Human	China		Enterovirus_A71
+MP9_2	JF894382	MP9_2		2011-03-05	Human	China		Enterovirus_A71
+MRS/09/3663	JN835312	MRS/09/3663		2009-06-XX	Unknown	France		Enterovirus_A71
+MS/7423/87	MG432108	MS/7423/87		1987-XX-XX	Human	Singapore		Human_enterovirus_71
+MY104_9_SAR_97	DQ341368	MY104_9_SAR_97		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+MY821_3_SAR_97	DQ341367	MY821_3_SAR_97		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+MZ2008	HQ694985	MZ2008		2008-05-05	Human	China		Enterovirus_A71
+N1745_TW08	KT354870	N1745_TW08		2011-07-01	Human	Taiwan		Human_enterovirus_71
+N2121_TW05	FJ357374	N2121_TW05		2005-XX-XX	Human	Taiwan		Enterovirus_A71
+N2838_TW03	FJ357378	N2838_TW03		2003-XX-XX	Human	Taiwan		Enterovirus_A71
+N3340_TW_02	EU131776	N3340_TW_02		20XX-XX-XX	Unknown			Enterovirus_A71
+N7008_TW99	FJ357375	N7008_TW99		1999-XX-XX	Human	Taiwan		Enterovirus_A71
+Nagoya	AB482183	Nagoya		20XX-XX-XX	Unknown	China		Enterovirus_A71
+NAGOYA	AB747374	NAGOYA		20XX-XX-XX	Unknown	Japan		Enterovirus_A71
+Nanyang/2011_China	JN052925	Nanyang/2011_China		2011-04-XX	Human	China		Enterovirus_A71
+NB/2010/01	JN001860	NB/2010/01		2010-05-10	Human	China		Enterovirus_A71
+NBChina01	HQ828086	NBChina01		2010-08-XX	Unknown	China		Enterovirus_A71
+NCKU9822	AF136379	NCKU9822		20XX-XX-XX	Unknown			Enterovirus_A71
+NUH0075/SIN/08	FJ172159	NUH0075/SIN/08		2008-05-30	Human	Singapore	EV71	Enterovirus_A71
+NUH0083/SIN/08	FJ461781	NUH0083/SIN/08		20XX-XX-XX	Unknown	Singapore	EV71	Enterovirus_A71
+pinf7_54A	DQ060149	pinf7_54A		20XX-XX-XX	Unknown	Taiwan		Enterovirus_A71
+PLday1_CH_06	EU414335	PLday1_CH_06		20XX-XX-XX	Unknown	Switzerland		Enterovirus_A71
+PLday4_CH_06	EU414334	PLday4_CH_06		20XX-XX-XX	Unknown	Switzerland		Enterovirus_A71
+PP37_MAL_01	DQ341365	PP37_MAL_01		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+Puyang_451_2012	KM211579	Puyang_451_2012		2012-XX-XX	Human	China		Enterovirus_A71
+Puyang_461_2012	KM211580	Puyang_461_2012		2012-XX-XX	Human	China		Enterovirus_A71
+Rostov	KJ400360	Rostov		2013-09-XX	Human	Russia	C4	Enterovirus_A71
+S0296_TW00	FJ357377	S0296_TW00		2000-XX-XX	Human	Taiwan		Enterovirus_A71
+S0318_TW01	FJ357376	S0318_TW01		2001-XX-XX	Human	Taiwan		Enterovirus_A71
+S0584_TW04	FJ357373	S0584_TW04		2004-XX-XX	Human	Taiwan		Enterovirus_A71
+S10862_SAR_98	DQ341359	S10862_SAR_98		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+S19841_SAR_03	DQ341363	S19841_SAR_03		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+S40221_SAR_00	DQ341358	S40221_SAR_00		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+SB12736_SAR_03	DQ341362	SB12736_SAR_03		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+SB2864_SAR_00	DQ341366	SB2864_SAR_00		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+SD07_1/SD/CHN/2007	JX678882	SD07_1/SD/CHN/2007		2007-XX-XX	Human	China	C4	Enterovirus_A71
+SD09_14/SD/CHN/2009	JX678883	SD09_14/SD/CHN/2009		2009-03-28	Human	China	C4	Enterovirus_A71
+SD09_21/SD/CHN/2009	JX678884	SD09_21/SD/CHN/2009		2009-03-30	Human	China	C4	Enterovirus_A71
+SDLY1	JX244182	SDLY1		2009-XX-XX	Human	China		Enterovirus_A71
+SDLY107	JX244186	SDLY107		2010-XX-XX	Human	China		Enterovirus_A71
+SDLY11	JX244183	SDLY11		2009-XX-XX	Human	China		Enterovirus_A71
+SDLY153	JX244187	SDLY153		2010-XX-XX	Human	China		Enterovirus_A71
+SDLY48	JX244184	SDLY48		2009-XX-XX	Human	China		Enterovirus_A71
+SDLY96	JX244185	SDLY96		2009-XX-XX	Human	China		Enterovirus_A71
+SEP4	KF543271	SEP4		2012-06-17	Human	Cambodia	C4	Enterovirus_A71
+SH_17/SH/CHN/2002	JX678885	SH_17/SH/CHN/2002		2002-XX-XX	Human	China	C4	Enterovirus_A71
+SH_6/SH/CHN/2002	JX678886	SH_6/SH/CHN/2002		2002-XX-XX	Human	China	C4	Enterovirus_A71
+SH12_036	KC570452	SH12_036		2012-05-02	Human	China	C4	Enterovirus_A71
+SH12_276	KC570453	SH12_276		2012-06-03	Human	China	C4	Enterovirus_A71
+Shanghai_036_2009	FJ713137	Shanghai_036_2009		20XX-XX-XX	Unknown			Enterovirus_A71
+Shanghai_117_2009	HQ891928	Shanghai_117_2009		2009-XX-XX	Human	China		Enterovirus_A71
+Shanghai_118_2009	HQ891929	Shanghai_118_2009		2009-XX-XX	Human	China		Enterovirus_A71
+Shanghai_27_2009	HQ891923	Shanghai_27_2009		2009-XX-XX	Human	China		Enterovirus_A71
+Shanghai_28_2009	HQ891924	Shanghai_28_2009		2009-XX-XX	Human	China		Enterovirus_A71
+Shanghai_36_2009	HQ891925	Shanghai_36_2009		2009-XX-XX	Human	China		Enterovirus_A71
+Shanghai_51_2009	HQ891926	Shanghai_51_2009		2009-XX-XX	Human	China		Enterovirus_A71
+Shanghai_64_2009	HQ891927	Shanghai_64_2009		2009-XX-XX	Human	China		Enterovirus_A71
+SHAPHC695F/SH/CHN/10	JQ736684	SHAPHC695F/SH/CHN/10		2010-06-29	Human	China	C4a	Enterovirus_A71
+SHZH03	AY465356	SHZH03		20XX-XX-XX	Unknown	China		Enterovirus_A71
+SHZH98	AF302996	SHZH98		20XX-XX-XX	Unknown			Enterovirus_A71
+SHZH98_pro	KF312457	SHZH98_pro		1998-XX-XX	Human	China	C4	Enterovirus_A71
+SK_EV006_LPS1	AB550335	SK_EV006_LPS1		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+SK_EV006_org	AB550334	SK_EV006_org		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+SK_EV006/Malaysia/97	AB469182	SK_EV006/Malaysia/97		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+ST_CH_06	EU414332	ST_CH_06		20XX-XX-XX	Unknown	Switzerland		Enterovirus_A71
+subgenotype_B5	LK985324	subgenotype_B5		20XX-XX-XX	Unknown	France		Enterovirus_A71
+SZ/HK08_5	GQ279369	SZ/HK08_5		2008-05-XX	Human	China		Enterovirus_A71
+SZ/HK08_6	GQ279370	SZ/HK08_6		2008-05-XX	Human	China		Enterovirus_A71
+Tainan/4643/98	AF304458	Tainan/4643/98		20XX-XX-XX	Unknown			Enterovirus_A71
+Tainan/5746/98	AF304457	Tainan/5746/98		20XX-XX-XX	Unknown			Enterovirus_A71
+Tainan/6092/98	AF304459	Tainan/6092/98		20XX-XX-XX	Unknown			Enterovirus_A71
+Taipei/B4_01/2011	KP274877	Taipei/B4_01/2011		2011-03-05	Human	Taiwan	B4	Enterovirus_A71
+Taipei/C2_Y100/2011	KP274876	Taipei/C2_Y100/2011		2011-03-05	Human	Taiwan	C2	Enterovirus_A71
+Taipei/C4_Y100_P4/2011	KP274874	Taipei/C4_Y100_P4/2011		2011-03-05	Human	Taiwan		Enterovirus_A71
+Taipei/C4_Y100_P5/2011	KP274875	Taipei/C4_Y100_P5/2011		2011-03-05	Human	Taiwan		Enterovirus_A71
+TC03F/SD/CHN/07	EU753407	TC03F/SD/CHN/07		2007-05-20	Human	China		Enterovirus_A71
+THA_EV71_002	JF738000	THA_EV71_002		2009-06-XX	Human	Thailand		Enterovirus_A71
+THA_EV71_019	JF738001	THA_EV71_019		2009-09-XX	Human	Thailand		Enterovirus_A71
+THA_EV71_044	JF738002	THA_EV71_044		2009-08-XX	Human	Thailand		Enterovirus_A71
+THA_A1008	KR045298	THA_A1008		2012-12-18	Human	Thailand	B5	Enterovirus_A71
+THA_A1048	KR045299	THA_A1048		2013-02-11	Human	Thailand	B5	Enterovirus_A71
+THA_A1083	KR045300	THA_A1083		2013-03-28	Human	Thailand	B5	Enterovirus_A71
+THA_A1219	KR045303	THA_A1219		2014-01-06	Human	Thailand	C4	Enterovirus_A71
+THA_A1564	KR045301	THA_A1564		2014-09-29	Human	Thailand	B5	Enterovirus_A71
+THA_A1570	KR045302	THA_A1570		2014-10-13	Human	Thailand	B5	Enterovirus_A71
+THA_A575	KR045291	THA_A575		2012-07-18	Human	Thailand	B5	Enterovirus_A71
+THA_A577	KR045304	THA_A577		2012-07-18	Human	Thailand	B5	Enterovirus_A71
+THA_A578	KR045292	THA_A578		2012-07-18	Human	Thailand	B5	Enterovirus_A71
+THA_A641	KR045297	THA_A641		2012-07-23	Human	Thailand	B5	Enterovirus_A71
+THA_A683	KR045293	THA_A683		2012-07-24	Human	Thailand	B5	Enterovirus_A71
+THA_A761	KR045296	THA_A761		2012-07-20	Human	Thailand	B5	Enterovirus_A71
+THA_A847	KR045294	THA_A847		2012-08-07	Human	Thailand	B5	Enterovirus_A71
+THA_A851	KR045295	THA_A851		2012-08-07	Human	Thailand	B5	Enterovirus_A71
+TLLcho	KM508794	TLLcho		20XX-XX-XX	Unknown			Enterovirus_A71
+TLLm	KF514879	TLLm		20XX-XX-XX	Unknown			Enterovirus_A71
+TLLmv	KF514880	TLLmv		20XX-XX-XX	Unknown			Enterovirus_A71
+TS	JQ708210	TS		2009-06-03	Human	China		Enterovirus_A71
+TW/1101/08	GQ231925	TW/1101/08		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/1956/05	GQ231926	TW/1956/05		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/2086/98	AF119796	TW/2086/98		20XX-XX-XX	Unknown	Taiwan		Enterovirus_A71
+TW/2272/98	AF119795	TW/2272/98		20XX-XX-XX	Unknown	Taiwan		Enterovirus_A71
+TW/2429/04	GQ231927	TW/2429/04		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/2639/04	GQ231928	TW/2639/04		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/2728/04	GQ231929	TW/2728/04		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/2815/04	GQ231930	TW/2815/04		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/2824/04	GQ231931	TW/2824/04		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/2871/04	GQ231932	TW/2871/04		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/70516/08	GQ231933	TW/70516/08		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/70811/08	GQ231934	TW/70811/08		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/70886/08	GQ231935	TW/70886/08		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/70902/08	GQ231936	TW/70902/08		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/71428/05	GQ231937	TW/71428/05		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/71552/05	GQ231938	TW/71552/05		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/71595/04	GQ231939	TW/71595/04		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/72232/04	GQ231940	TW/72232/04		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/96002/08	GQ231941	TW/96002/08		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/96016/08	GQ231942	TW/96016/08		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TW/96022/08	GQ231943	TW/96022/08		20XX-XX-XX	Human	Taiwan		Enterovirus_A71
+TZ06	KF826491	TZ06		2012-03-26	Human	China	C4	Enterovirus_A71
+UH1/PM/1997	AM396587	UH1/PM/1997		20XX-XX-XX	Unknown	Malaysia		Enterovirus_A71
+V04_2218217	KC436265	V04_2218217		2004-05-XX	Human	Hong_Kong		Enterovirus_A71
+V05_2243055	KC436266	V05_2243055		2005-09-XX	Human	Hong_Kong		Enterovirus_A71
+V06_2218645	KC436267	V06_2218645		2006-04-XX	Human	Hong_Kong		Enterovirus_A71
+V07_2231013	KC436268	V07_2231013		2007-05-XX	Human	Hong_Kong		Enterovirus_A71
+V08_2221581	KC436269	V08_2221581		2008-04-XX	Human	Hong_Kong		Enterovirus_A71
+V08_2236079	KC436270	V08_2236079		2008-06-XX	Human	Hong_Kong		Enterovirus_A71
+V09_2225777	KC436271	V09_2225777		2009-05-XX	Human	Hong_Kong		Enterovirus_A71
+V10_2234054	KC436272	V10_2234054		2010-04-XX	Human	Hong_Kong		Enterovirus_A71
+VN152/2011	KP691665	VN152/2011		2011-04-10	Unknown	Viet_Nam		Enterovirus_A71
+VR1432	KC954664	VR1432		2009-XX-XX	Human	China	71	Enterovirus_A71
+wenzhou011	KJ632497	wenzhou011		2011-XX-XX	Human	China		Enterovirus_A71
+wenzhou227	KJ632499	wenzhou227		2011-XX-XX	Human	China		Enterovirus_A71
+wenzhou256	KJ632498	wenzhou256		2011-XX-XX	Human	China		Enterovirus_A71
+wh029	KM591215	wh029		2010-06-XX	Human	China		Enterovirus_A71
+Wuhan1042/HuB/CHN/2011	JX986737	Wuhan1042/HuB/CHN/2011		2011-XX-XX	Human	China	C4	Enterovirus_A71
+Wuhan1117/HuB/CHN/2011	JX986738	Wuhan1117/HuB/CHN/2011		2011-XX-XX	Human	China	C4	Enterovirus_A71
+Wuhan1143/HuB/CHN/2011	JX986739	Wuhan1143/HuB/CHN/2011		2011-XX-XX	Human	China	C4	Enterovirus_A71
+01	LR027527	01	TOU148153	FRA16			Unknown	
+04	LR027529	04	BAY180009	FRA16			Unknown	
+06	LR027522	06	TOU307017	FRA16			Unknown	
+07	LR027528	07	COC238077	FRA16			Unknown	
+09	LR027524	09	PMB250102	FRA16			Unknown	
+100_p0	MH511181	100_p0		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p12	MH511182	100_p12		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p17_T1	MH511183	100_p17_T1		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p17_T2	MH511184	100_p17_T2		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p17_T3	MH511185	100_p17_T3		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p31_T1	MH511186	100_p31_T1		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p31_T2	MH511187	100_p31_T2		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p31_T3	MH511188	100_p31_T3		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p35_T1	MH511189	100_p35_T1		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p35_T2	MH511190	100_p35_T2		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p35_T3	MH511191	100_p35_T3		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p36_T1	MH511192	100_p36_T1		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p36_T2	MH511193	100_p36_T2		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+100_p36_T3	MH511194	100_p36_T3		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+10076	AB575911	10076		1966-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+10098	AB575938	10098		2010-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+101_p0	MH511195	101_p0		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p12	MH511196	101_p12		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p17_T1	MH511197	101_p17_T1		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p17_T2	MH511198	101_p17_T2		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p17_T3	MH511199	101_p17_T3		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p31_T1	MH511200	101_p31_T1		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p31_T2	MH511201	101_p31_T2		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p31_T3	MH511202	101_p31_T3		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p35_T1	MH511203	101_p35_T1		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p35_T2	MH511204	101_p35_T2		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p35_T3	MH511205	101_p35_T3		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p36_T1	MH511206	101_p36_T1		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p36_T2	MH511207	101_p36_T2		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+101_p36_T3	MH511208	101_p36_T3		2017-08-10	Unknown	China	C4	Human_enterovirus_71
+10118	AB575948	10118		2010-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+10196	AB575917	10196		1977-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+10857	AB575912	10857		1966-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+10S3	MN749160	10S3		2013-XX-XX	Human	USA		Human_enterovirus_71
+10S5	MN749161	10S5		2013-XX-XX	Human	USA		Human_enterovirus_71
+10	LR027525	10	COC259064	FRA16			Unknown	
+11316	AB575927	11316		1986-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+11590	AB575928	11590		1986-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+11977	AB575913	11977		1971-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+119798	HM752814	119798		20XX-XX-XX	Human	Greece		Human_enterovirus_71
+11N	MH484069	11N		2016-XX-XX	Human	Spain		Human_enterovirus_71
+120/EV71/Wenzhou/CHN/2014	KT345959	120/EV71/Wenzhou/CHN/2014		2014-06-02	Human	China	C4a	Human_enterovirus_71
+124098	HQ424434	124098		2010-02-04	Human	Greece		Human_enterovirus_71
+124151	HQ424433	124151		2010-02-04	Human	Greece		Human_enterovirus_71
+127018	HQ424435	127018		2010-04-27	Human	Greece		Human_enterovirus_71
+128135	HQ424437	128135		2010-06-08	Human	Greece		Human_enterovirus_71
+12	LR027534	12	PMB263109	FRA16			Unknown	
+13	LR027533	13	COC286037	FRA16			Unknown	
+1416	AB575937	1416		2001-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+14	LR027530	14	VSV286030	FRA16			Unknown	
+15_355	MG013988	15_355		2015-XX-XX	Human	Senegal		Human_enterovirus_71
+15/EV71/Wenzhou/CHN/2014	KT345960	15/EV71/Wenzhou/CHN/2014		2014-06-02	Human	China	C4a	Human_enterovirus_71
+15	LR027536	15	VSV286032	FRA16			Unknown	
+160_50	MG875331	160_50		2016-XX-XX	Unknown	China		Human_enterovirus_71
+16173	AB575916	16173		1976-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+16F	MH484070	16F		2016-XX-XX	Human	Spain		Human_enterovirus_71
+16L	MN515037	16L		2016-XX-XX	Human	Spain		Human_enterovirus_71
+16	LR027537	16	VSV286034	FRA16			Unknown	
+17000	AB575914	17000		1971-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+17F	MH484071	17F		2016-XX-XX	Human	Spain		Human_enterovirus_71
+17	LR027535	17	VSV286035	FRA16			Unknown	
+18	LR027538	18	VSV286036	FRA16			Unknown	
+2005_1480	LR027541	2005_1480	NLD05	20XX-XX-XX		Unknown		
+2015g03	KY612315	2015g03		2015-01-XX	Unknown	China		Human_enterovirus_71
+20233	AB575923	20233		1983-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+20574	AB575918	20574		1978-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+2065_Yamagata_2004	LC506516	2065_Yamagata_2004		2004-XX-XX	Human	Japan		Human_enterovirus_71
+23	LR027532	23	TOU307036	FRA16			Unknown	
+2485	AB575941	2485		2007-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+25	LR027531	25	AMI302002	FRA16			Unknown	
+26	LR027539	26	PMB501259	FRA17			Unknown	
+2716_Yamagata_03	LC375766	2716_Yamagata_03		2003-XX-XX	Human	Japan		Human_enterovirus_71
+30_2/2015/BJ	MG214681	30_2/2015/BJ		2015-04-XX	Human	China		Human_enterovirus_71
+301	KX588236	301		2008-08-03	Human	Taiwan		Human_enterovirus_71
+31170098	LC321989	31170098		2017-XX-XX	Human	Japan		Human_enterovirus_71
+31170101	LC321990	31170101		2017-XX-XX	Human	Japan		Human_enterovirus_71
+31170112	LC321991	31170112		2017-XX-XX	Human	Japan		Human_enterovirus_71
+31170151	LC321992	31170151		2017-XX-XX	Human	Japan		Human_enterovirus_71
+31170202	LC321993	31170202		2017-XX-XX	Human	Japan		Human_enterovirus_71
+32_YN	KX893543	32_YN		2015-04-10	Human	China		Human_enterovirus_71
+365	AB575939	365		2000-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+3692	AB575942	3692		2007-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+37507/TH/DE_2015	KU641501	37507/TH/DE_2015		2015-08-XX	Human	Germany	A71	Human_enterovirus_71
+4_23/XY/CHN/2017	MG207962	4_23/XY/CHN/2017		2017-05-12	Human	China		Human_enterovirus_71
+4044545	HQ424436	4044545		2010-06-05	Human	Greece		Human_enterovirus_71
+413_C1/YN/CHN/2016	MN966517	413_C1/YN/CHN/2016		2016-07-26	Human	China	A71	Human_enterovirus_71
+413_C2/YN/CHN/2016	MN966518	413_C2/YN/CHN/2016		2016-07-01	Human	China	A71	Human_enterovirus_71
+43538/MV/DE_2015	KU641505	43538/MV/DE_2015		2015-08-XX	Human	Germany	A71	Human_enterovirus_71
+44172/RP/DE_2015	KU641507	44172/RP/DE_2015		2015-09-XX	Human	Germany	A71	Human_enterovirus_71
+44930/BE/DE_2015	KU641504	44930/BE/DE_2015		2015-08-XX	Human	Germany	A71	Human_enterovirus_71
+44932/BE/DE_2015	KU641506	44932/BE/DE_2015		2015-08-XX	Human	Germany	A71	Human_enterovirus_71
+45849/BE/DE_2015	KU641502	45849/BE/DE_2015		2015-07-XX	Human	Germany	A71	Human_enterovirus_71
+45894/BE/DE_2015	KU641503	45894/BE/DE_2015		2015-07-XX	Human	Germany	A71	Human_enterovirus_71
+46411/NW/DE_2015	KU641508	46411/NW/DE_2015		2015-10-XX	Human	Germany	A71	Human_enterovirus_71
+480	AB575935	480		1991-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+4N	MH484066	4N		2016-XX-XX	Human	Spain		Human_enterovirus_71
+5N	MH484067	5N		2016-XX-XX	Human	Spain		Human_enterovirus_71
+6_1500_4	MN053431	6_1500_4		2006-XX-XX	Human	Malaysia	B5	Human_enterovirus_71
+6_4/XY/CHN/2017	MG207963	6_4/XY/CHN/2017		2017-05-13	Human	China		Human_enterovirus_71
+6_684_4	MN053434	6_684_4		2006-XX-XX	Human	Malaysia	B5	Human_enterovirus_71
+617_19	KY014078	617_19		2008-09-10	Human	China		Human_enterovirus_71
+617_20	KY014079	617_20		2008-09-10	Human	China		Human_enterovirus_71
+6N	MH484068	6N		2016-XX-XX	Human	Spain		Human_enterovirus_71
+7D3	MF973167	7D3		20XX-XX-XX	Human	USA		Human_enterovirus_71
+839	KY014080	839		2008-11-17	Human	China		Human_enterovirus_71
+9443	AB575915	9443		1974-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+9612	AB575936	9612		1991-XX-XX	Unknown	Netherlands		Human_enterovirus_71
+97/ST	MT188611	97/ST		1997-XX-XX	Human			Human_enterovirus_71
+A106/YN/CHN/2016	MN966512	A106/YN/CHN/2016		2016-03-10	Human	China	A71	Human_enterovirus_71
+B5_1	MH716258	B5_1		2014-08-27	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_10	MH716267	B5_10		2014-11-30	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_100	MH716357	B5_100		2014-06-12	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_101	MH716358	B5_101		2014-06-18	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_102	MH716359	B5_102		2015-03-27	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_103	MH716360	B5_103		2014-12-04	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_104	MH716361	B5_104		2014-09-10	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_105	MH716362	B5_105		2014-05-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_106	MH716363	B5_106		2014-04-17	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_107	MH716364	B5_107		2013-11-25	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_108	MH716365	B5_108		2014-10-15	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_109	MH716366	B5_109		2014-10-15	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_11	MH716268	B5_11		2014-10-24	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_110	MH716367	B5_110		2013-10-16	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_111	MH716368	B5_111		2013-11-27	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_112	MH716369	B5_112		2013-11-04	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_113	MH716370	B5_113		2014-04-08	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_114	MH716371	B5_114		2013-11-07	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_115	MH716372	B5_115		2013-09-18	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_116	MH716373	B5_116		2014-12-10	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_117	MH716374	B5_117		2014-06-27	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_118	MH716375	B5_118		2014-11-04	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_119	MH716376	B5_119		2014-11-27	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_12	MH716269	B5_12		2014-10-07	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_120	MH716377	B5_120		2014-11-27	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_121	MH716378	B5_121		2014-08-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_122	MH716379	B5_122		2013-08-13	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_123	MH716380	B5_123		2014-03-14	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_124	MH716381	B5_124		2013-10-06	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_125	MH716382	B5_125		2014-01-06	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_126	MH716383	B5_126		2013-12-05	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_127	MH716384	B5_127		2014-03-18	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_128	MH716385	B5_128		2013-10-30	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_129	MH716386	B5_129		2013-09-16	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_13	MH716270	B5_13		2014-10-16	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_130	MH716387	B5_130		2013-10-25	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_131	MH716388	B5_131		2014-01-15	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_132	MH716389	B5_132		2013-10-16	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_133	MH716390	B5_133		2013-07-29	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_134	MH716391	B5_134		2013-08-28	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_135	MH716392	B5_135		2013-10-15	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_136	MH716393	B5_136		2013-08-19	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_14	MH716271	B5_14		2014-11-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_15	MH716272	B5_15		2014-12-19	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_16	MH716273	B5_16		2014-10-30	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_17	MH716274	B5_17		2014-10-15	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_18	MH716275	B5_18		2015-03-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_19	MH716276	B5_19		2015-03-25	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_2	MH716259	B5_2		2014-11-26	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_20	MH716277	B5_20		2015-04-06	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_21	MH716278	B5_21		2014-11-17	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_22	MH716279	B5_22		2014-12-05	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_23	MH716280	B5_23		2014-11-27	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_24	MH716281	B5_24		2014-09-03	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_25	MH716282	B5_25		2014-04-10	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_26	MH716283	B5_26		2014-10-02	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_27	MH716284	B5_27		2014-10-29	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_28	MH716285	B5_28		2014-12-08	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_29	MH716286	B5_29		2014-10-16	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_3	MH716260	B5_3		2013-09-26	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_30	MH716287	B5_30		2014-11-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_31	MH716288	B5_31		2014-09-11	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_32	MH716289	B5_32		2014-11-14	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_33	MH716290	B5_33		2014-08-08	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_34	MH716291	B5_34		2014-11-12	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_35	MH716292	B5_35		2013-11-13	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_36	MH716293	B5_36		2013-07-19	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_37	MH716294	B5_37		2013-11-06	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_38	MH716295	B5_38		2013-11-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_39	MH716296	B5_39		2013-11-13	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_4	MH716261	B5_4		2013-10-28	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_40	MH716297	B5_40		2013-10-28	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_41	MH716298	B5_41		2014-10-08	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_42	MH716299	B5_42		2015-01-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_43	MH716300	B5_43		2015-01-17	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_44	MH716301	B5_44		2013-12-11	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_45	MH716302	B5_45		2013-11-06	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_46	MH716303	B5_46		2013-08-26	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_47	MH716304	B5_47		2014-11-03	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_48	MH716305	B5_48		2014-07-28	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_49	MH716306	B5_49		2015-03-18	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_5	MH716262	B5_5		2014-04-01	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_50	MH716307	B5_50		2015-01-19	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_51	MH716308	B5_51		2013-09-16	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_52	MH716309	B5_52		2013-11-28	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_53	MH716310	B5_53		2014-11-04	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_54	MH716311	B5_54		2013-10-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_55	MH716312	B5_55		2013-09-11	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_56	MH716313	B5_56		2013-07-24	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_57	MH716314	B5_57		2014-04-01	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_58	MH716315	B5_58		2014-06-11	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_59	MH716316	B5_59		2014-04-15	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_6	MH716263	B5_6		2013-11-27	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_60	MH716317	B5_60		2014-04-15	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_61	MH716318	B5_61		2013-10-28	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_62	MH716319	B5_62		2014-12-03	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_63	MH716320	B5_63		2013-09-04	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_64	MH716321	B5_64		2014-10-29	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_65	MH716322	B5_65		2014-03-26	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_66	MH716323	B5_66		2013-11-11	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_67	MH716324	B5_67		2014-07-17	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_68	MH716325	B5_68		2014-12-19	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_69	MH716326	B5_69		2014-09-26	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_7	MH716264	B5_7		2015-04-09	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_70	MH716327	B5_70		2014-08-29	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_71	MH716328	B5_71		2014-05-29	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_72	MH716329	B5_72		2014-06-11	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_73	MH716330	B5_73		2014-11-16	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_74	MH716331	B5_74		2014-11-04	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_75	MH716332	B5_75		2013-11-14	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_76	MH716333	B5_76		2013-11-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_77	MH716334	B5_77		2013-07-17	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_78	MH716335	B5_78		2014-09-11	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_79	MH716336	B5_79		2014-10-02	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_8	MH716265	B5_8		2014-11-26	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_80	MH716337	B5_80		2014-10-24	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_81	MH716338	B5_81		2013-09-25	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_82	MH716339	B5_82		2013-07-20	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_83	MH716340	B5_83		2014-08-06	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_84	MH716341	B5_84		2013-09-12	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_85	MH716342	B5_85		2013-08-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_86	MH716343	B5_86		2013-12-04	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_87	MH716344	B5_87		2013-08-05	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_88	MH716345	B5_88		2013-09-18	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_89	MH716346	B5_89		2013-11-25	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_9	MH716266	B5_9		2014-12-19	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_90	MH716347	B5_90		2015-03-18	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_91	MH716348	B5_91		2014-10-02	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_92	MH716349	B5_92		2014-12-08	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_93	MH716350	B5_93		2014-12-12	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_94	MH716351	B5_94		2015-03-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_95	MH716352	B5_95		2014-08-21	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_96	MH716353	B5_96		2014-07-04	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_97	MH716354	B5_97		2014-12-10	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_98	MH716355	B5_98		2014-07-28	Human	Viet_Nam	B5	Human_enterovirus_71
+B5_99	MH716356	B5_99		2014-10-25	Human	Viet_Nam	B5	Human_enterovirus_71
+BJ14_1	KU254595	BJ14_1		2014-07-09	Human	China		Human_enterovirus_71
+BJ14_2	KU254596	BJ14_2		2014-07-15	Human	China		Human_enterovirus_71
+C068/CHW/AUS/2016	MH111073	C068/CHW/AUS/2016		2016-08-14	Human	Australia	A71	Human_enterovirus_71
+C4_1	MH716248	C4_1		2014-10-20	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_10	MH716257	C4_10		2014-10-13	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_2	MH716249	C4_2		2014-10-08	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_3	MH716250	C4_3		2015-03-28	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_4	MH716251	C4_4		2014-09-09	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_5	MH716252	C4_5		2014-09-13	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_6	MH716253	C4_6		2014-10-06	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_7	MH716254	C4_7		2014-11-05	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_8	MH716255	C4_8		2015-01-16	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_9	MH716256	C4_9		2017-01-15	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_ND_114_Vietnam_CaMau_2012_04_15	KU159434	C4_ND_114_Vietnam:CaMau_2012_04_15		2012-04-15	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_ND_137_Vietnam_VungTau_2012_05_20	KU159435	C4_ND_137_Vietnam:VungTau_2012_05_20		2012-05-20	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_ND_150_Vietnam_DongThap_2012_07_05	KU159436	C4_ND_150_Vietnam:DongThap_2012_07_05		2012-07-05	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_ND_152_Vietnam_VinhLong_2012_07_16	KU159437	C4_ND_152_Vietnam:VinhLong_2012_07_16		2012-07-16	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_ND_153_Vietnam_HoChiMinh_2012_07_23	KU159438	C4_ND_153_Vietnam:HoChiMinh_2012_07_23		2012-07-23	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_ND_158_Vietnam_BenTre_2012_08_04	KU159439	C4_ND_158_Vietnam:BenTre_2012_08_04		2012-08-04	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_ND_171_Vietnam_BinhDuong_2012_02_18	KU159440	C4_ND_171_Vietnam:BinhDuong_2012_02_18		2012-02-18	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_ND_198_Vietnam_HoChiMinh_2012_03_21	KU159441	C4_ND_198_Vietnam:HoChiMinh_2012_03_21		2012-03-21	Human	Viet_Nam	C4	Human_enterovirus_71
+C4_ND_200_Vietnam_HoChiMinh_2012_03_28	KU159442	C4_ND_200_Vietnam:HoChiMinh_2012_03_28		2012-03-28	Human	Viet_Nam	C4	Human_enterovirus_71
+C7/Osaka/Japan/97	LC375765	C7/Osaka/Japan/97		1997-XX-XX	Human	Japan		Human_enterovirus_71
+CAE_CEN_BIY_146_08	LT719066	CAE_CEN_BIY_146_08		2008-XX-XX	Human	Cameroon		Human_enterovirus_71
+CAE_LIT_CIP_041_08	LT719067	CAE_LIT_CIP_041_08		2008-XX-XX	Human	Cameroon		Human_enterovirus_71
+CAF_RS2_NMA_008_03	LT719068	CAF_RS2_NMA_008_03		2003-XX-XX	Human	Central_African_Republic		Human_enterovirus_71
+CCA	KY074644	CCA		2008-XX-XX	Human	China	C4	Human_enterovirus_71
+CF097017	LR027544	CF097017	FRA03	20XX-XX-XX		Unknown		
+CF210042	LR027547	CF210042	FRA06	20XX-XX-XX		Unknown		
+CMC718	MN629889	CMC718		2012-08-XX	Human	South_Korea		Human_enterovirus_71
+CMU4232/BJ/CHN/2008	MH373639	CMU4232/BJ/CHN/2008		2008-04-XX	Human	China	71	Human_enterovirus_71
+CQ2014_86	KU647000	CQ2014_86		2014-04-02	Human	China	A71	Human_enterovirus_71
+CSF15/YN/CHN/2013	KY425527	CSF15/YN/CHN/2013		2013-05-11	Human	China		Human_enterovirus_71
+DK07_01	MG367591	DK07_01		2007-02-XX	Human	Denmark	C	Human_enterovirus_71
+DK07_02	MG367592	DK07_02		2007-02-XX	Human	Denmark	C	Human_enterovirus_71
+DK07_03	MG367593	DK07_03		2007-06-XX	Human	Denmark	C	Human_enterovirus_71
+DK07_04	MG367594	DK07_04		2007-06-XX	Human	Denmark	C	Human_enterovirus_71
+DK14_03	MG367595	DK14_03		2014-11-XX	Human	Denmark	C	Human_enterovirus_71
+DK16_02	MG367596	DK16_02		2016-02-XX	Human	Denmark	C	Human_enterovirus_71
+DK16_03	MG367597	DK16_03		2016-04-XX	Human	Denmark	C	Human_enterovirus_71
+DK16_04	MG367598	DK16_04		2016-05-XX	Human	Denmark	C	Human_enterovirus_71
+DK16_05	MG367599	DK16_05		2016-06-XX	Human	Denmark	C	Human_enterovirus_71
+DK16_06	MG367600	DK16_06		2016-06-XX	Human	Denmark	C	Human_enterovirus_71
+DK16_08	MG367601	DK16_08		2016-06-XX	Human	Denmark	C	Human_enterovirus_71
+E1/ZS/CHZ/2009	MT212038	E1/ZS/CHZ/2009		2009-05-XX	Human	China		Human_enterovirus_71
+eTLLbeta_P20	MT241237	eTLLbeta_P20		2013-XX-XX	Unknown	Singapore		Human_enterovirus_71
+EV_A71_C4_MAD_2017_7366	LR798440	EV_A71_C4_MAD_2017_7366		2017-XX-XX	Unknown	Madagascar		Human_enterovirus_71
+EV_A71/2019/FR/0622	MW030642	EV_A71/2019/FR/0622		2019-07-XX	Human	France	A71	Human_enterovirus_71
+EV_A71/PMKA1300/THA/2011	KU574619	EV_A71/PMKA1300/THA/2011		2011-06-24	Human	Thailand		Human_enterovirus_71
+EV71_MZ	KY582572	EV71_MZ		2015-04-01	Human	China	C4	Human_enterovirus_71
+EV71_NJ2017iso1	MG581490	EV71_NJ2017iso1		2017-XX-XX	Human	China		Human_enterovirus_71
+EV71_NJ2017iso2	MG520666	EV71_NJ2017iso2		2017-XX-XX	Unknown	China		Human_enterovirus_71
+EV71/CZTN01/CHN/2017	MG431943	EV71/CZTN01/CHN/2017		2017-XX-XX	Human	China		Human_enterovirus_71
+EV71/Jiangsu.P.R.C/07.08/10	FJ600325	EV71/Jiangsu.P.R.C/07.08/10		2008-07-XX	Unknown	China	C4	Human_enterovirus_71
+EV71/SHENZHEN001/2006	MG208882	EV71/SHENZHEN001/2006		2006-06-XX	Human	China	C4	Human_enterovirus_71
+EV71/SZ04/CHN/2014	KT428644	EV71/SZ04/CHN/2014		2014-03-XX	Human	China		Human_enterovirus_71
+EV71/SZ07/CHN/2014	KT428645	EV71/SZ07/CHN/2014		2014-04-XX	Human	China		Human_enterovirus_71
+EV71/SZ08/CHN/2013	MF405075	EV71/SZ08/CHN/2013		2013-05-XX	Human	China	C4	Human_enterovirus_71
+EV71/SZ12/CHN/2014	KT428646	EV71/SZ12/CHN/2014		2014-04-XX	Human	China		Human_enterovirus_71
+EV71/SZ17/CHN/2013	MF431793	EV71/SZ17/CHN/2013		2013-07-XX	Human	China	C4	Human_enterovirus_71
+EV71/SZ25/CHN/2014	KT428647	EV71/SZ25/CHN/2014		2014-05-XX	Human	China		Human_enterovirus_71
+EV71/SZ42/CHN/2014	KT428648	EV71/SZ42/CHN/2014		2014-05-XX	Human	China		Human_enterovirus_71
+EV71/SZ50/CHN/2014	KT428649	EV71/SZ50/CHN/2014		2014-06-XX	Human	China		Human_enterovirus_71
+EV71/SZ88/CHN/2014	KT428650	EV71/SZ88/CHN/2014		2014-09-XX	Human	China		Human_enterovirus_71
+EVA71/Homosapiens/VNM/12.1/2013	KX430817	EVA71/Homosapiens/VNM/12.1/2013		2013-XX-XX	Human	Viet_Nam	EV_A71	Human_enterovirus_71
+EVA71/Homosapiens/VNM/12.2/2013	KX430818	EVA71/Homosapiens/VNM/12.2/2013		2013-XX-XX	Human	Viet_Nam	EV_A71	Human_enterovirus_71
+EVA71/Homosapiens/VNM/13.1/2012	KX430819	EVA71/Homosapiens/VNM/13.1/2012		2012-XX-XX	Human	Viet_Nam	EV_A71	Human_enterovirus_71
+EVA71/Homosapiens/VNM/13.2/2012	KX430820	EVA71/Homosapiens/VNM/13.2/2012		2012-XX-XX	Human	Viet_Nam	EV_A71	Human_enterovirus_71
+EVA71/Homosapiens/VNM/14.1/2012	KX430821	EVA71/Homosapiens/VNM/14.1/2012		2012-XX-XX	Human	Viet_Nam	EV_A71	Human_enterovirus_71
+EVA71/Homosapiens/VNM/14.2/2012	KX430822	EVA71/Homosapiens/VNM/14.2/2012		2012-XX-XX	Human	Viet_Nam	EV_A71	Human_enterovirus_71
+EVA71/Homosapiens/VNM/15.1/2014	KX430823	EVA71/Homosapiens/VNM/15.1/2014		2014-XX-XX	Human	Viet_Nam	EV_A71	Human_enterovirus_71
+EVA71/Homosapiens/VNM/15.2/2014	KX430824	EVA71/Homosapiens/VNM/15.2/2014		2014-XX-XX	Human	Viet_Nam	EV_A71	Human_enterovirus_71
+F1	MT360984	F1		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+F17	MT360988	F17		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+F22	MT360989	F22		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+F23	MT360990	F23		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+F6	MT360985	F6		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+F7	MT360986	F7		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+F9	MT360987	F9		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+G08	MN254979	G08		2008-XX-XX	Human	China		Human_enterovirus_71
+G63/YN/CHN/2016	MN966513	G63/YN/CHN/2016		2016-06-04	Human	China	A71	Human_enterovirus_71
+GIN_13_365	MG672479	GIN_13_365		20XX-XX-XX	Unknown	Guinea	A71	Human_enterovirus_71
+GRE29	LR027545	GRE29	FRA07	20XX-XX-XX		Unknown		
+GZ203KL21/GD/CHN/2010	MF362981	GZ203KL21/GD/CHN/2010		2010-05-XX	Unknown	China		Human_enterovirus_71
+Hau1	KM077140	Hau1		2013-07-XX	Human	Taiwan		Human_enterovirus_71
+HFM005	KX197455	HFM005		2012-07-08	Human	Cambodia	C4a	Human_enterovirus_71
+HFM008	KX197456	HFM008		2012-07-12	Human	Cambodia	C4a	Human_enterovirus_71
+HFM040	KX197457	HFM040		2012-07-14	Human	Cambodia	C4a	Human_enterovirus_71
+HFM057	KX197458	HFM057		2012-07-14	Human	Cambodia	C4a	Human_enterovirus_71
+HFM072	KX197459	HFM072		2012-07-15	Human	Cambodia	C4a	Human_enterovirus_71
+HFM088	KX197460	HFM088		2012-07-17	Human	Cambodia	C4a	Human_enterovirus_71
+HP	KY074643	HP		2008-XX-XX	Human	China	C4	Human_enterovirus_71
+Huainan201401	MG773122	Huainan201401		2014-XX-XX	Human	China		Human_enterovirus_71
+Huainan201402	MG773123	Huainan201402		2014-XX-XX	Human	China		Human_enterovirus_71
+Huainan201403	MG773124	Huainan201403		2014-XX-XX	Human	China		Human_enterovirus_71
+Huainan201404	MG773125	Huainan201404		2014-XX-XX	Human	China		Human_enterovirus_71
+Huainan201405	MG773126	Huainan201405		2014-XX-XX	Human	China		Human_enterovirus_71
+J098_EV_A71_WS_YN_2014	MK344771	J098_EV_A71_WS_YN_2014		2014-06-XX	Human	China	A71	Human_enterovirus_71
+Jena_15_984	KX139462	Jena_15_984		2015-07-29	Human	Germany		Human_enterovirus_71
+Jinan/SD/CHN/2015	KX752783	Jinan/SD/CHN/2015		2015-07-24	Human	China		Human_enterovirus_71
+K14/YN/CHN/2013	MF662698	K14/YN/CHN/2013		2013-09-26	Human	China		Human_enterovirus_71
+K17245	MK791153	K17245		2018-08-27	Human	China		Human_enterovirus_71
+K34/YN/CHN/2013	MF662699	K34/YN/CHN/2013		2013-10-12	Human	China		Human_enterovirus_71
+K36/YN/CHN/2013	MF662697	K36/YN/CHN/2013		2013-10-15	Human	China		Human_enterovirus_71
+K38/YN/CHN/2013	MF662700	K38/YN/CHN/2013		2013-10-15	Human	China		Human_enterovirus_71
+K509/YN/CHN/2010	MF662681	K509/YN/CHN/2010		2010-05-24	Human	China		Human_enterovirus_71
+KW24/YN/CHN/2012	MF662692	KW24/YN/CHN/2012		2012-06-17	Human	China		Human_enterovirus_71
+MAD_3126_11	LT719063	MAD_3126_11		2011-XX-XX	Human	Madagascar		Human_enterovirus_71
+MAD_72341_04	LT719065	MAD_72341_04		2004-XX-XX	Human	Madagascar		Human_enterovirus_71
+MAD_7842_10	LT719064	MAD_7842_10		2010-XX-XX	Human	Madagascar		Human_enterovirus_71
+MRT_14_250	MG672481	MRT_14_250		20XX-XX-XX	Unknown	Mauritania	A71	Human_enterovirus_71
+N0722_Sendai_2007	LC506515	N0722_Sendai_2007		2007-XX-XX	Human	Japan		Human_enterovirus_71
+N1745_TW08/VP1_D164E	KT354866	N1745_TW08/VP1_D164E		2011-07-01	Human	Taiwan		Human_enterovirus_71
+N1745_TW08/VP1_E145Q	KT354867	N1745_TW08/VP1_E145Q		2011-07-01	Human	Taiwan		Human_enterovirus_71
+N1745_TW08/VP1_K98E	KT354868	N1745_TW08/VP1_K98E		2011-07-01	Human	Taiwan		Human_enterovirus_71
+N1745_TW08/VP1_K98E+E145Q	KT354869	N1745_TW08/VP1_K98E+E145Q		2011-07-01	Human	Taiwan		Human_enterovirus_71
+N7008_TW99_9	KT354875	N7008_TW99_9		2011-07-01	Human	Taiwan		Human_enterovirus_71
+N7008_TW99/VP1_E164D	KT354873	N7008_TW99/VP1_E164D		2011-07-01	Human	Taiwan		Human_enterovirus_71
+N7008_TW99/VP1_E98K	KT354871	N7008_TW99/VP1_E98K		2011-07-01	Human	Taiwan		Human_enterovirus_71
+N7008_TW99/VP1_E98K+Q145E	KT354872	N7008_TW99/VP1_E98K+Q145E		2011-07-01	Human	Taiwan		Human_enterovirus_71
+N7008_TW99/VP1_Q145E	KT354874	N7008_TW99/VP1_Q145E		2011-07-01	Human	Taiwan		Human_enterovirus_71
+N772_Sendai_2006	LC506513	N772_Sendai_2006		2006-XX-XX	Human	Japan		Human_enterovirus_71
+NER_13_194	MG672478	NER_13_194		20XX-XX-XX	Unknown	Niger	A71	Human_enterovirus_71
+No.1	MT360991	No.1		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+No.2	MT360992	No.2		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+No.22	MT360995	No.22		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+No.23	MT360996	No.23		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+No.36	MT360997	No.36		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+No.40	MT360998	No.40		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+No.8	MT360993	No.8		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+No.9	MT360994	No.9		2008-XX-XX	Unknown	Taiwan	B5	Human_enterovirus_71
+R1/YN/CHN/2011	MF662687	R1/YN/CHN/2011		2011-05-29	Human	China		Human_enterovirus_71
+R118/YN/CHN/2016	MN966516	R118/YN/CHN/2016		2016-03-30	Human	China	A71	Human_enterovirus_71
+R134/YN/CHN/2009	MF662677	R134/YN/CHN/2009		2009-04-06	Human	China		Human_enterovirus_71
+R14/YN/CHN/2011	MF662688	R14/YN/CHN/2011		2011-06-12	Human	China		Human_enterovirus_71
+R165/YN/CHN/2009	MF662678	R165/YN/CHN/2009		2009-07-14	Human	China		Human_enterovirus_71
+R17/YN/CHN/2011	MF662689	R17/YN/CHN/2011		2011-06-14	Human	China		Human_enterovirus_71
+R176/YN/CHN/2009	MF662679	R176/YN/CHN/2009		2009-07-25	Human	China		Human_enterovirus_71
+R186/YN/CHN/2009	MF662680	R186/YN/CHN/2009		2009-08-14	Human	China		Human_enterovirus_71
+R22/YN/CHN/2011	MF662690	R22/YN/CHN/2011		2011-06-19	Human	China		Human_enterovirus_71
+R262/YN/CHN/2010	MF662682	R262/YN/CHN/2010		2010-05-19	Human	China		Human_enterovirus_71
+R464/YN/CHN/2010	MF662683	R464/YN/CHN/2010		2010-06-11	Human	China		Human_enterovirus_71
+R50/YN.CHN/2013	MF662701	R50/YN.CHN/2013		2013-10-27	Human	China		Human_enterovirus_71
+R59/YN/CHN/2016	MN966514	R59/YN/CHN/2016		2016-03-23	Human	China	A71	Human_enterovirus_71
+R6/YN/CHN/2011	MF662691	R6/YN/CHN/2011		2011-06-07	Human	China		Human_enterovirus_71
+R615/YN/CHN/2010	MF662684	R615/YN/CHN/2010		2010-06-28	Human	China		Human_enterovirus_71
+R642/YN/CHN/2010	MF662685	R642/YN/CHN/2010		2010-07-02	Human	China		Human_enterovirus_71
+R66/YN/CHN/2016	MN966515	R66/YN/CHN/2016		2016-03-03	Human	China	A71	Human_enterovirus_71
+R6_TUN	LT934386	R6_TUN		20XX-XX-XX	Unknown			Human_enterovirus_71
+R993/YN/CHN/2010	MF662686	R993/YN/CHN/2010		2010-09-05	Human	China		Human_enterovirus_71
+RA330/YN/CHN/2009	MK028135	RA330/YN/CHN/2009		2009-04-06	Human	China		Human_enterovirus_71
+RW14/YN/CHN/2012	MF662693	RW14/YN/CHN/2012		2012-06-14	Human	China		Human_enterovirus_71
+RW15/YN/CHN/2012	MF662694	RW15/YN/CHN/2012		2012-06-14	Human	China		Human_enterovirus_71
+RW40/YN/CHN/2012	MF662695	RW40/YN/CHN/2012		2012-07-15	Human	China		Human_enterovirus_71
+RW46/YN/CHN/2012	MF662696	RW46/YN/CHN/2012		2012-07-26	Human	China		Human_enterovirus_71
+S0254a	MK307505	S0254a		20XX-XX-XX	Human	China	C4a	Human_enterovirus_71
+SB6_1004_3	MN053433	SB6_1004_3		2006-XX-XX	Human	Malaysia	B5	Human_enterovirus_71
+SB6_1048_2	MN053430	SB6_1048_2		2006-XX-XX	Human	Malaysia	B5	Human_enterovirus_71
+SB6_297_2	MN053435	SB6_297_2		2006-XX-XX	Human	Malaysia	B5	Human_enterovirus_71
+SB6_760_3	MN053432	SB6_760_3		2006-XX-XX	Human	Malaysia	B5	Human_enterovirus_71
+SD004R/Shandong/China/2015	KY315729	SD004R/Shandong/China/2015		2015-07-20	Human	China	A71	Human_enterovirus_71
+SEN_14_157	MG672480	SEN_14_157		20XX-XX-XX	Unknown	Senegal	A71	Human_enterovirus_71
+SEP001	KX197461	SEP001		2012-06-15	Human	Cambodia	C4a	Human_enterovirus_71
+SEP006	KX197462	SEP006		2012-06-23	Human	Cambodia	C4a	Human_enterovirus_71
+SEP014_EV_A71	KX197463	SEP014_EV_A71		2012-06-28	Human	Cambodia	C4a	Human_enterovirus_71
+SEP024	KX197464	SEP024		2012-07-07	Human	Cambodia	C4a	Human_enterovirus_71
+SEP042	KX197465	SEP042		2012-XX-XX	Human	Cambodia	C4a	Human_enterovirus_71
+SHAPHC5218/SH/CHN/14	KU936120	SHAPHC5218/SH/CHN/14		2014-03-10	Human	China	C4a	Human_enterovirus_71
+SHAPHC5251/SH/CHN/14	KU936121	SHAPHC5251/SH/CHN/14		2014-03-19	Human	China	C4a	Human_enterovirus_71
+SHAPHC5267/SH/CHN/14	KU936122	SHAPHC5267/SH/CHN/14		2014-03-28	Human	China	C4a	Human_enterovirus_71
+SHAPHC5271/SH/CHN/14	KU936123	SHAPHC5271/SH/CHN/14		2014-03-28	Human	China	C4a	Human_enterovirus_71
+SHAPHC5287/SH/CHN/14	KU936124	SHAPHC5287/SH/CHN/14		2014-04-01	Human	China	C4a	Human_enterovirus_71
+SHAPHC5307/SH/CHN/14	KU936125	SHAPHC5307/SH/CHN/14		2014-04-11	Human	China	C4a	Human_enterovirus_71
+SHAPHC5330/SH/CHN/14	KU936130	SHAPHC5330/SH/CHN/14		2014-04-20	Human	China	C4a	Human_enterovirus_71
+SHAPHC5365/SH/CHN/14	KU936128	SHAPHC5365/SH/CHN/14		2014-05-04	Human	China	C4a	Human_enterovirus_71
+SHAPHC5427/SH/CHN/14	KU936129	SHAPHC5427/SH/CHN/14		2014-06-02	Human	China	C4a	Human_enterovirus_71
+SHAPHC5432/SH/CHN/14	KU936131	SHAPHC5432/SH/CHN/14		2014-05-31	Human	China	C4a	Human_enterovirus_71
+SHAPHC5468/SH/CHN/14	KU936132	SHAPHC5468/SH/CHN/14		2014-06-15	Human	China	C4a	Human_enterovirus_71
+SHAPHC5510/SH/CHN/14	KU936126	SHAPHC5510/SH/CHN/14		2014-07-07	Human	China	C4a	Human_enterovirus_71
+SHAPHC5589/SH/CHN/14	KU936127	SHAPHC5589/SH/CHN/14		2014-09-11	Human	China	C4a	Human_enterovirus_71
+SI/Isehara/Japan/99	LC375764	SI/Isehara/Japan/99		1999-XX-XX	Human	Japan		Human_enterovirus_71
+SI01/TH_NMA_/06	KX372308	SI01/TH_NMA_/06		2006-07-01	Human	Thailand		Human_enterovirus_71
+SiICRC_13/TH/2011	KY952186	SiICRC_13/TH/2011		2011-08-10	Human	Thailand	B5	Human_enterovirus_71
+SiICRC01/TH/2012	KX372314	SiICRC01/TH/2012		2012-08-17	Human	Thailand		Human_enterovirus_71
+SiICRC01/TH/2013	KX372323	SiICRC01/TH/2013		2013-02-26	Human	Thailand		Human_enterovirus_71
+SiICRC01/TH/2014	KX372328	SiICRC01/TH/2014		2014-01-10	Human	Thailand		Human_enterovirus_71
+SiICRC02/TH/2012	KX372315	SiICRC02/TH/2012		2012-07-23	Human	Thailand		Human_enterovirus_71
+SiICRC02/TH/2013	KX372324	SiICRC02/TH/2013		2013-01-07	Human	Thailand		Human_enterovirus_71
+SiICRC03/TH/2012	KX372316	SiICRC03/TH/2012		2012-10-02	Human	Thailand		Human_enterovirus_71
+SiICRC04/TH/2012	KX372317	SiICRC04/TH/2012		2012-07-26	Human	Thailand		Human_enterovirus_71
+SiICRC04/TH/2013	KX372326	SiICRC04/TH/2013		2013-02-05	Human	Thailand		Human_enterovirus_71
+SiICRC05/TH/2012	KX372318	SiICRC05/TH/2012		2012-08-28	Human	Thailand		Human_enterovirus_71
+SiICRC05/TH/2013	KX372327	SiICRC05/TH/2013		2013-11-01	Human	Thailand		Human_enterovirus_71
+SiICRC05/TH/2014	KX372329	SiICRC05/TH/2014		2014-02-12	Human	Thailand		Human_enterovirus_71
+SiICRC06/TH/2012	KX372319	SiICRC06/TH/2012		2012-09-12	Human	Thailand		Human_enterovirus_71
+SiICRC06/TH/2014	KX372330	SiICRC06/TH/2014		2014-07-01	Human	Thailand		Human_enterovirus_71
+SiICRC07/TH/2014	KX372331	SiICRC07/TH/2014		2014-07-07	Human	Thailand		Human_enterovirus_71
+SiICRC08/TH/2011	KX372310	SiICRC08/TH/2011		2011-08-10	Human	Thailand		Human_enterovirus_71
+SiICRC08/TH/2014	KX372332	SiICRC08/TH/2014		2014-08-20	Human	Thailand		Human_enterovirus_71
+SiICRC09/TH/2012	KX372320	SiICRC09/TH/2012		2012-10-01	Human	Thailand		Human_enterovirus_71
+SiICRC10/TH/2011	KX372311	SiICRC10/TH/2011		2011-08-15	Human	Thailand		Human_enterovirus_71
+SiICRC10/TH/2012	KX372321	SiICRC10/TH/2012		2012-11-01	Human	Thailand		Human_enterovirus_71
+SiICRC11/TH/2012	KX372322	SiICRC11/TH/2012		2012-10-01	Human	Thailand		Human_enterovirus_71
+SiICRC15/TH/2011	KX372312	SiICRC15/TH/2011		2011-08-10	Human	Thailand		Human_enterovirus_71
+SiICRC16/TH/2011	KX372313	SiICRC16/TH/2011		2011-06-17	Human	Thailand		Human_enterovirus_71
+SilCRC03/TH/2013	KX372325	SilCRC03/TH/2013		2013-08-15	Human	Thailand		Human_enterovirus_71
+Siriraj01/TH/08	KX372309	Siriraj01/TH/08		2008-07-11	Human	Thailand		Human_enterovirus_71
+STU546711	LR027543	STU546711	DEU08	20XX-XX-XX		Unknown		
+STU562356	LR027542	STU562356	DEU03	20XX-XX-XX		Unknown		
+Sydney03	MK697694	Sydney03		2013-05-XX	Human	Australia		Human_enterovirus_71
+Sydney05	MK697693	Sydney05		2013-03-XX	Human	Australia		Human_enterovirus_71
+Sydney09	MK697692	Sydney09		2013-05-XX	Human	Australia		Human_enterovirus_71
+Sydney11	MK697691	Sydney11		2013-05-XX	Human	Australia		Human_enterovirus_71
+Sydney14	MK697690	Sydney14		2013-04-XX	Human	Australia		Human_enterovirus_71
+Sydney18	MK697687	Sydney18		2013-04-XX	Human	Australia		Human_enterovirus_71
+Sydney20	MK697686	Sydney20		2013-03-XX	Human	Australia		Human_enterovirus_71
+Sydney30	MK697685	Sydney30		2013-03-XX	Human	Australia		Human_enterovirus_71
+Sydney56	MK697680	Sydney56		2013-04-XX	Human	Australia		Human_enterovirus_71
+Sydney57	MK697679	Sydney57		2013-04-XX	Human	Australia		Human_enterovirus_71
+Sydney60	MK697678	Sydney60		2013-05-XX	Human	Australia		Human_enterovirus_71
+Taiwan/1998_20998	MG976582	Taiwan/1998_20998		1998-XX-XX	Human	Taiwan		Human_enterovirus_71
+TLLalpha	MT241233	TLLalpha		2011-XX-XX	Unknown	Singapore		Human_enterovirus_71
+TLLalpha_P20	MT241234	TLLalpha_P20		2011-XX-XX	Unknown	Singapore		Human_enterovirus_71
+TLLbeta	MT241235	TLLbeta		2011-XX-XX	Unknown	Singapore		Human_enterovirus_71
+TLLbeta_P20	MT241236	TLLbeta_P20		2011-XX-XX	Unknown	Singapore		Human_enterovirus_71
+TLLeC5	MT241238	TLLeC5		2013-XX-XX	Unknown	Singapore		Human_enterovirus_71
+TLLeCA16	MT241239	TLLeCA16		2013-XX-XX	Unknown	Singapore		Human_enterovirus_71
+TW_00073_2012	MG756724	TW_00073_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_00184_2012	MG756725	TW_00184_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_00583_2012	MG756726	TW_00583_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_00921_2015	MG756695	TW_00921_2015		2015-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_00998_2005	MG756696	TW_00998_2005		2005-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01100_2010	MG756715	TW_01100_2010		2010-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01112_2012	MG756727	TW_01112_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01361_2005	MG756697	TW_01361_2005		2005-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01387_2010	MG756716	TW_01387_2010		2010-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01414_2012	MG756729	TW_01414_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01485_2012	MG756728	TW_01485_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01641_2005	MG756698	TW_01641_2005		2005-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01709_2010	MG756717	TW_01709_2010		2010-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01744_2012	MG756730	TW_01744_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01788_2012	MG756731	TW_01788_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01807_2012	MG756732	TW_01807_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01889_2012	MG756733	TW_01889_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01904_2012	MG756734	TW_01904_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01952_2005	MG756699	TW_01952_2005		2005-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_01963_2012	MG756735	TW_01963_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_02131_2012	MG756736	TW_02131_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_02182_2010	MG756718	TW_02182_2010		2010-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_02314_2012	MG756738	TW_02314_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_02369_2012	MG756739	TW_02369_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_02389_2008	MG756706	TW_02389_2008		2008-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_02392_2016	MG756692	TW_02392_2016		2016-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_02572_2012	MG756740	TW_02572_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_02659_2011	MG756720	TW_02659_2011		2011-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_02664_2012	MG756737	TW_02664_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_02722_2008	MG756707	TW_02722_2008		2008-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_02876_2005	MG756700	TW_02876_2005		2005-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_03112_2012	MG756741	TW_03112_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_03530_2011	MG756721	TW_03530_2011		2011-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_50144_2013	MG756754	TW_50144_2013		2013-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_50193_2012	MG756742	TW_50193_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_50234_2012	MG756743	TW_50234_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_50490_2012	MG756744	TW_50490_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_50558_2012	MG756745	TW_50558_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_50601_2012	MG756746	TW_50601_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_50681_2012	MG756747	TW_50681_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_50837_2016	MG756691	TW_50837_2016		2016-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_50878_2012	MG756748	TW_50878_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_50995_2012	MG756749	TW_50995_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_50996_2015	MG756693	TW_50996_2015		2015-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_51010_2012	MG756750	TW_51010_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_51031_2015	MG756694	TW_51031_2015		2015-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_51045_2012	MG756751	TW_51045_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_51126_2012	MG756752	TW_51126_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_51135_2012	MG756753	TW_51135_2012		2012-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_70205_2005	MG756701	TW_70205_2005		2005-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_70389_2008	MG756708	TW_70389_2008		2008-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_70521_2005	MG756702	TW_70521_2005		2005-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_70751_2005	MG756703	TW_70751_2005		2005-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_70954_2008	MG756709	TW_70954_2008		2008-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_71215_2011	MG756722	TW_71215_2011		2011-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_71379_2008	MG756710	TW_71379_2008		2008-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_71650_2011	MG756723	TW_71650_2011		2011-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_71680_2008	MG756711	TW_71680_2008		2008-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_72031_2008	MG756712	TW_72031_2008		2008-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_72043_2007	MG756705	TW_72043_2007		2007-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_72219_2008	MG756713	TW_72219_2008		2008-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_72523_2008	MG756714	TW_72523_2008		2008-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_96050_2010	MG756719	TW_96050_2010		2010-XX-XX	Human	Taiwan		Human_enterovirus_71
+TW_96102_2005	MG756704	TW_96102_2005		2005-XX-XX	Human	Taiwan		Human_enterovirus_71
+USA/2016/19519	KY888025	USA/2016/19519		2016-XX-XX	Human	USA		Human_enterovirus_71
+USA/2016/19522	KY888026	USA/2016/19522		2016-XX-XX	Human	USA		Human_enterovirus_71
+USA/2018_23092	MK652139	USA/2018_23092		2018-11-XX	Human	USA		Human_enterovirus_71
+USA/2018_23124	MK800119	USA/2018_23124		2018-XX-XX	Human	USA		Human_enterovirus_71
+USA/2018_23296	MT081373	USA/2018_23296		2018-XX-XX	Human	USA		Human_enterovirus_71
+USA/2018_23297	MT081374	USA/2018_23297		2018-XX-XX	Human	USA		Human_enterovirus_71
+USA/2018_23298	MT081375	USA/2018_23298		2018-XX-XX	Human	USA		Human_enterovirus_71
+USA/AK/2016_19516	MG976581	USA/AK/2016_19516		2016-XX-XX	Human	USA		Human_enterovirus_71
+USA/CO/2018_23026	MH718269	USA/CO/2018_23026		2018-XX-XX	Human	USA		Human_enterovirus_71
+Xiangyang_Hubei_09	JN230523	Xiangyang_Hubei_09		2009-04-XX	Human	China	C4	Human_enterovirus_71
+Y90_3896	LC506514	Y90_3896		1990-XX-XX	Human	Japan		Human_enterovirus_71

@@ -26,6 +26,8 @@ FEATURES             Location/Qualifiers
                      /strain="BrCr"
                      /host="Homo sapiens"
                      /db_xref="taxon:39054"
+                     /country="USA: CA"
+                     /collection_date="XX-XX-1970"
      CDS             1..891
                      /codon_start=1
                      /product="VP1"

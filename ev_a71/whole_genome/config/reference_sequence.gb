@@ -26,6 +26,8 @@ FEATURES             Location/Qualifiers
                      /strain="BrCr"
                      /host="Homo sapiens"
                      /db_xref="taxon:39054"
+                     /country="USA: CA"
+                     /collection_date="XX-XX-1970"
      5'UTR           1..743
      CDS             744..7325
                      /codon_start=1
@@ -71,31 +73,31 @@ FEATURES             Location/Qualifiers
                      IRWTKDARNTQDHVRSLCLLAWHNGKEEYEKFVSTIRSVPIGRALAIPNLENLRRNWL
                      ELF"
      CDS             744..950
-                     /product="VP4 (1A)"
+                     /gene="VP4"
                      /note="capsid protein"
      CDS             951..1712
-                     /product="VP2"
+                     /gene="VP2"
                      /note="capsid protein"
      CDS             1713..2438
-                     /product="VP3"
+                     /gene="VP3"
                      /note="capsid protein"
      CDS             2439..3329
-                     /product="VP1"
+                     /gene="VP1"
                      /note="capsid protein"
      CDS             3330..3779
-                     /product="2A"
+                     /gene="2A"
      CDS             3780..4076
-                     /product="2B"
+                     /gene="2B"
      CDS             4077..5063
-                     /product="2C"
+                     /gene="2C"
      CDS             5064..5321
-                     /product="3A"
+                     /gene="3A"
      CDS             5322..5387
-                     /product="3B"
+                     /gene="3B"
      CDS             5388..5936
-                     /product="3C"
+                     /gene="3C"
      CDS             5937..7322
-                     /product="3D"
+                     /gene="3D"
      3'UTR           7326..7408
 ORIGIN      
         1 ttaaaacagc tgtgggttgt cacccaccca cagggtccac tgggcgctag tacactggta

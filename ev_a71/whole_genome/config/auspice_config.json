@@ -21,18 +21,13 @@
       "type": "categorical"
     },
     {
-      "key": "author",
-      "title": "Author",
+      "key": "abbreviation",
+      "title": "Type",
       "type": "categorical"
     },
     {
       "key": "country",
       "title": "Country",
-      "type": "categorical"
-    },
-    {
-      "key": "region",
-      "title": "Region",
       "type": "categorical"
     }
   ],

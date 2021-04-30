@@ -1,5 +1,5 @@
 region	africa	4.070194	21.824559
-region	china	35.000074	104.999927
+region	east_asia	35.000074	104.999927
 region	europe	49.646237	10.799454
 region	japan_korea	35.845119	136.736386
 region	north_america	28.2367447	-97.738017
@@ -30,7 +30,7 @@ country	bangladesh	24.4768783	90.2932426
 country	belgium	50.6407351	4.66696
 country	belize	17.49952	-88.19756
 country	benin	9.668764	2.284078
-country	bermuda		32.2949	-64.78303
+country	bermuda	32.2949	-64.78303
 country	bhutan	27.5142	90.4336
 country	bolivia	-17.0	-65.0
 country	bosnia_herzegovina	43.84864	18.35644
@@ -201,7 +201,7 @@ country	usa	39.7837304	-100.4458824
 country	usvi	18.3378801	-64.8982827
 country	vanuatu	-17.734818	168.3220
 country	venezuela	8.0	-66.0
-country	vietnam	16.16667	107.83333
+country	viet nam	16.16667	107.83333
 country	wallis_and_futuna	-13.28163	-176.17453
 country	yemen	16.3471243	47.8915271
 country	zambia	-14.33333	28.5

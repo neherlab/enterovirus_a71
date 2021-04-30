@@ -1,0 +1,52 @@
+{
+  "title": "Genomic epidemiology of Enterovirus A71 genes 2A-3D",
+  "maintainers": [
+    {"name": "Simon Grimm", "url": ""}
+  ],
+  "build_url": "",
+  "colorings": [
+    {
+      "key": "gt",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "num_date",
+      "title": "Date",
+      "type": "continuous"
+    },
+    {
+      "key": "virus",
+      "title": "Virus",
+      "type": "categorical"
+    },
+    {
+      "key": "abbreviation",
+      "title": "Type",
+      "type": "categorical"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "country",
+    "region"
+  ],
+  "panels": [
+     "tree",
+     "map",
+     "entropy"
+  ],
+  "display_defaults": {
+    "map_triplicate": true
+  },
+  "filters": [
+    "country",
+    "region",
+    "author"
+  ]
+  }
+

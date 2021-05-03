@@ -11,7 +11,7 @@ if __name__ == '__main__':
         """,
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('-i', '--input',  metavar=' ', help="input metadata")
-    parser.add_argument('-o', '--output', metavar=' ', help="output metadata") 
+    parser.add_argument('-o', '--output', metavar=' ', help="output metadata")
     args = parser.parse_args()
 
     input_csv_meta = args.input
@@ -23,10 +23,10 @@ if __name__ == '__main__':
     for oldDate in meta["date"]:
         if pd.isna(oldDate):
             oldDate = "20XX-XX-XX"
-            augur_date = oldDate 
+            augur_date = oldDate
         elif oldDate.count("_") == 2:
             augur_date = oldDate.replace("_", "-")
-        elif oldDate.count("_") == 1: 
+        elif oldDate.count("_") == 1:
             dash_date = oldDate.replace("_", "-")
             augur_date = dash_date + "-XX"
         elif oldDate.count("-") == 1:

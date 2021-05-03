@@ -2,36 +2,36 @@
 
 This build performs a full Nextstrain analysis of Enterovirus A71. You can choose to run either a **>=600 bp VP1 run** or a **>=6400 bp whole genome run**.
 
-This build could be extended in the future to do several additional things. 
+This build could be extended in the future to do several additional things.
  1. The inclusion of additional metadata like patient age, granular spatial data or clinical outcomes.
  2. Automatic updates with the newest available sequences. See Emma Hodcroft' [Enterovirus D68 build](https://github.com/nextstrain/enterovirus_d68) for some efforts to do implement this with a similar virus.
 
 Data used for this build can be downloaded from [viprbrc.org](viprbrc.org). I've added instructions for how to download sequences manually at the end of this [README](#Sequence-Acquisition).
+
+To learn more about Enterovirus A71, I recommend this very well written [review article by Solomon et al.](https://pubmed.ncbi.nlm.nih.gov/20961813/)
 
 ### Organization of repository:
 
 ```
 scripts
 ```
-Custom python scripts which are being called from the `snakefile`. 
+Custom python scripts which are being called from the `snakefile`.
 
 ```
 snakefile
 ```
-This file contains the entire computational pipeline. This file is using the **Snakemake workflow management system**, which allows elegant, reproducible biocomputational analyses. You can find snakemake's documentation [here](https://snakemake.readthedocs.io/en/stable/). If you want to change some part of the analysis, or call your own scripts, you need to edit this file. 
+This file contains the entire computational pipeline. This file is using the **Snakemake workflow management system**, which allows elegant, reproducible biocomputational analyses. You can find snakemake's documentation [here](https://snakemake.readthedocs.io/en/stable/). If you want to change some part of the analysis, or call your own scripts, you need to edit this file.
 ```
 vp1
 ```
 Config files used for the **>=600 bp VP1 run**. In the folder `vp1/config` you can find config files (like coloring instructions and clade assignments) + a VP1 reference sequence containing VP1. Sequence data from ViPR should be saved as `vipr.fasta` in `vp1/data`.
 
-INSERT LINK TO REFERENCE SEQUENCE HERE.
-
-
-WARNING WHOLE GENOME COLOUR SCHEME STILL HAS ISSUES.
 ```
 whole_genome
 ```
 Config files used for the **>=6400 bp whole genome run**. In the folder `whole_genome/config` you can find config files(like coloring instructions and clade assignments) + a whole genome reference sequence. Sequence data from ViPR should be saved as `vipr.fasta` in `whole_genome/data`
+
+The reference sequence used for this build can be found [here](https://www.genome.jp/dbget-bin/www_bget?genbank-vrl:U22521). It was sequenced in **1970**, is called BrCr, its accession number is **U22521**.
 
 # Quickstart
 
@@ -72,7 +72,7 @@ snakemake ev_a71/whole_genome/auspice/ev_a71_whole_genome.json --cores 1
 
 ### Visualizing build
 
-If everything worked out, you can now visualize your build using auspice *(which is contained within nextstrain)*. 
+If everything worked out, you can now visualize your build using auspice *(which is contained within nextstrain)*.
 
 For the **vp1 build** do this via
 ```
@@ -88,9 +88,6 @@ You might need to run the command `export PORT=4001` if you want to run two ausp
 
 ## Feedback
 
-If you have any questions or comments feel free to reach out via github, twitter (@simonleandergrimm) or under simon(dot)grimm(at)unibas(dot)ch.
-
-FIX TWITTER
-
+If you have any questions or comments feel free to reach out via github, twitter (@Simon__Grimm) or under simon(dot)grimm(at)unibas(dot)ch.
 
 ### Sequence acquisition

@@ -20,6 +20,7 @@ if __name__ == '__main__':
     meta = pd.read_csv(input_csv_meta, keep_default_na=True, sep='\t', index_col=False)
 
     newDates = []
+
     for oldDate in meta["date"]:
         if pd.isna(oldDate):
             oldDate = "20XX-XX-XX"

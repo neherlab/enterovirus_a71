@@ -4,7 +4,7 @@ This build performs a full Nextstrain analysis of Enterovirus A71. You can choos
 
 This build could be extended in the future to do several additional things.
  1. The inclusion of additional metadata like patient age, granular spatial data or clinical outcomes.
- 2. Automatic updates with the newest available sequences. See Emma Hodcroft' [Enterovirus D68 build](https://github.com/nextstrain/enterovirus_d68) for some efforts to do implement this with a similar virus.
+ 2. Automatic updates with the newest available sequences. See Emma Hodcroft' [Enterovirus D68 build](https://github.com/nextstrain/enterovirus_d68) for some efforts to implement this with a similar virus.
 
 Data used for this build can be downloaded from [viprbrc.org](viprbrc.org). I've added instructions for how to download sequences manually at the end of this [README](#Sequences).
 
@@ -88,4 +88,4 @@ You might need to run the command `export PORT=4001` if you want to run two ausp
 
 ## Feedback
 
-If you have any questions or comments feel free to reach out via github, twitter (@Simon__Grimm) or under simon(dot)grimm(at)unibas(dot)ch.
+If you have any questions or comments feel free to reach out via github, twitter (@Simon__Grimm) or via simon(dot)grimm(at)unibas(dot)ch.

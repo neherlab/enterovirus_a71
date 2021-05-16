@@ -8,11 +8,13 @@
 # snakemake ev_a71/whole_genome/auspice/ev_a71_whole_genome.json --cores 1
 
 ###############
-segments = {'vp1','whole_genome','vp4vp1','2a3d'}
+segments = ['vp1','whole_genome']
+
+augur_jsons=expand("ev_a71/{seg}/auspice/ev_a71_{seg}.json", seg=segments)
 
 rule all:
     input:
-        auspice_json = "ev_a71/{segments}/auspice/ev_a71_{segments}.json", segments = {"vp1","whole_genome",'vp4vp1','2a3d'}
+        augur_jsons
 
 vipr_fasta = "ev_a71/{segments}/data/vipr.fasta"
 dropped_strains = "ev_a71/{segments}/config/dropped_strains.txt"
@@ -47,7 +49,7 @@ rule subsample_by_length:
 rule parse:
     message:
         """
-        Parsing sequences and metadata from viprbrc.fasta.
+        Parsing sequences and metadata from viprbrc.fasta
         """
     input:
         sequences = rules.subsample_by_length.output.sequences
@@ -70,7 +72,7 @@ rule parse:
 rule remove_duplicates:
     message:
         """
-        Removing duplicate sequences.
+        Removing duplicate sequences
         """
     input:
         sequences = rules.parse.output.duplicate_sequences
@@ -86,7 +88,7 @@ rule remove_duplicates:
 rule date_parse:
     message:
         """
-        Cleaning dates in metadata.
+        Cleaning dates in metadata
         """
     input:
         metadata = rules.parse.output.metadata
@@ -102,7 +104,7 @@ rule date_parse:
 rule index_sequences:
     message:
         """
-        Creating an index of sequence composition for filtering.
+        Creating an index of sequence composition for filtering
         """
     input:
         sequences = rules.remove_duplicates.output.sequences
@@ -328,7 +330,7 @@ rule export:
         lat_longs = lat_longs,
         auspice_config = auspice_config
     output:
-        auspice_json = rules.all.input.auspice_json,
+        auspice_json = "ev_a71/{segments}/auspice/ev_a71_{segments}.json"
     shell:
         """
         augur export v2 \

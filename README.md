@@ -12,6 +12,8 @@ To learn more about Enterovirus A71, I recommend this very well written [review 
 
 ### Organization of repository:
 
+This repo contains the following folders and files:
+
 ```
 scripts
 ```
@@ -44,7 +46,7 @@ To run this repository you need to install the Nextstrain environment. You can f
 
 You need to download up-to-date sequences. This can be done via [viprbrc.org](viprbrc.org). On the landing page, pick **Enterovirus** (you should find this under the header "Featured Viruses").
 
-Within the Enterovirus Taxonomy Browser, pick **Enterovirus A**. On the Genome Search page, click on "Search Criteria". There you can select Enterovirus A71 sequences. As of the 29th April 2021, there should be ~10'000 sequences. You do NOT need to specify sequence length, as subsampling by length is included in this build.
+Within the Enterovirus Taxonomy Browser, pick **Enterovirus A**. On the Genome Search page, click on "Search Criteria". There you can select Enterovirus A71 sequences. As of April 2021, there should be ~10'000 sequences. You do *NOT* need to specify sequence length, as subsampling by length is included in this build.
 
 Sequences should be downloaded  in "Genome FASTA" format. Under **Format for FASTA file definition line** pick **Custom format**, adding *ALL* metadata fields. You can now download the sequences.
 
@@ -52,9 +54,7 @@ Save the resulting file as `vipr.fasta` in the folder `data`.
 
 ### Running build
 
-You can run either a **vp1 build** or a **whole genome build**.
-
-You first need to initialize nextstrain by executing
+Before running a build, you need to initialize nextstrain by executing
 ```
 conda activate nextstrain
 ```

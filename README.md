@@ -59,13 +59,19 @@ You first need to initialize nextstrain by executing
 conda activate nextstrain
 ```
 
-Following this you can run the **vp1 build** by executing
+Following this you can create a **vp1 build** and a **whole genome build** simply by executing
+
+```
+snakemake --cores 1
+```
+
+If you only want one of those builds, you can either create a **vp1 build** by executing
 
 ```
 snakemake ev_a71/vp1/auspice/ev_a71_vp1.json --cores 1
 ```
 
-or you can run the **whole genome build** by executing
+or you can create a **whole genome build** by executing
 ```
 snakemake ev_a71/whole_genome/auspice/ev_a71_whole_genome.json --cores 1
 ```

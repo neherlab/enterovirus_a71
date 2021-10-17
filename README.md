@@ -4,7 +4,7 @@ This build performs a full Nextstrain analysis of Enterovirus A71. You can choos
 
 This build could be extended in the future to do several additional things.
  1. The inclusion of additional metadata like patient age, granular spatial data or clinical outcomes.
- 2. Automatic updates with the newest available sequences. See Emma Hodcroft' [Enterovirus D68 build](https://github.com/nextstrain/enterovirus_d68) for some efforts to implement this with a similar virus.
+ 2. Automatic updates with the newest available sequences. See Emma Hodcroft's [Enterovirus D68 build](https://github.com/nextstrain/enterovirus_d68) for some efforts to implement this with a similar virus.
 
 Data used for this build can be downloaded from [viprbrc.org](viprbrc.org). I've added instructions for how to download sequences manually at the end of this [README](#Sequences).
 

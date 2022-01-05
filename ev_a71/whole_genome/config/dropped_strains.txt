@@ -1,1 +1,9 @@
-JB141010065
+HUN_5702_2004					#showing unreasonably high genetic divergence
+HUN_7195_2004					#showing unreasonably high genetic divergence
+HUN_5702_2004					#showing unreasonably high genetic divergence
+B5_855S_2012_Vietnam_AnGiang_2012_09_24		#showing unreasonably high genetic divergence
+FI14/Tk/W/94					#showing high genetic divergence
+EV71_Jiaxing_1                  #showing unreasonably high genetic divergence
+EV71/Ningbo.CHN/001/2003 				#misdated
+EV71/Ningbo.CHN/216/2003				#misdated
+HeB_132/HeB/CHN/2010                    #unclear if this sequence needs to be dropped

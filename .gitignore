@@ -7,6 +7,13 @@
 
 .snakemake
 
+results/
+
+auspice/
+
+*errors.csv
+
+
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,jupyternotebooks

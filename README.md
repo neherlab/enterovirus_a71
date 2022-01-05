@@ -4,7 +4,7 @@ This build performs a full Nextstrain analysis of Enterovirus A71. You can choos
 
 This build could be extended in the future to do several additional things.
  1. The inclusion of additional metadata like patient age, granular spatial data or clinical outcomes.
- 2. Automatic updates with the newest available sequences. See Emma Hodcroft' [Enterovirus D68 build](https://github.com/nextstrain/enterovirus_d68) for some efforts to implement this with a similar virus.
+ 2. Automatic updates with the newest available sequences. See Emma Hodcroft's [Enterovirus D68 build](https://github.com/nextstrain/enterovirus_d68) for some efforts to implement this with a similar virus.
 
 Data used for this build can be downloaded from [viprbrc.org](viprbrc.org). I've added instructions for how to download sequences manually at the end of this [README](#Sequences).
 
@@ -22,7 +22,7 @@ Custom python scripts which are being called from the `snakefile`.
 ```
 snakefile
 ```
-This file contains the entire computational pipeline. This file is using the **Snakemake workflow management system**, which allows elegant, reproducible biocomputational analyses. You can find snakemake's documentation [here](https://snakemake.readthedocs.io/en/stable/). If you want to change some part of the analysis, or call your own scripts, you need to edit this file.
+`snakefile` contains the entire computational pipeline. This file is using the **Snakemake workflow management system**, which allows elegant, reproducible biocomputational analyses. You can find snakemake's documentation [here](https://snakemake.readthedocs.io/en/stable/). If you want to change some part of the analysis, or call your own scripts, you need to edit this file.
 ```
 vp1
 ```
@@ -33,7 +33,7 @@ whole_genome
 ```
 Config files used for the **>=6400 bp whole genome run**. In the folder `whole_genome/config` you can find config files(like coloring instructions and clade assignments) + a whole genome reference sequence. Sequence data from ViPR should be saved as `vipr.fasta` in `whole_genome/data`
 
-The reference sequence used for this build can be found [here](https://www.genome.jp/dbget-bin/www_bget?genbank-vrl:U22521). It was sequenced in **1970**, is called BrCr, its accession number is **U22521**.
+The reference sequence used for this build can be found [here](https://www.genome.jp/dbget-bin/www_bget?genbank-vrl:U22521). It was sequenced in **1970**, is called BrCr, and its accession number is **U22521**.
 
 # Quickstart
 

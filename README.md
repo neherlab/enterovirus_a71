@@ -22,7 +22,7 @@ This repo contains the following folders and files:
 
 `ev_a71/vp1` contains sequences and config files used for the **>=600 bp VP1 run**.
 
-`ev_a71/whole_genome` Config files used for the **>=6400 bp whole genome run**. In the folder `whole_genome/config` you can find config files (like coloring instructions and clade assignments) + a whole genome reference sequence. Sequence data from ViPR should be saved as `vipr.fasta` in `whole_genome/data`
+`ev_a71/whole_genome` Config files used for the **>=6400 bp whole genome run**.
 
 In the folder `ev_a71/vp1/config` and `ev_a71/whole_genome/config` respectively, you can find configuration files required for running nextstrain:
 * coloring scheme `colors.tsv`
@@ -40,16 +40,6 @@ The reference sequence used for this build can be found [online](https://www.gen
 
 ### Nextstrain environment
 To run this repository you need to install the Nextstrain environment. You can find detailed install instructions [here](https://docs.nextstrain.org/en/latest/guides/install/local-installation.html).
-
-### Sequences
-
-You need to download up-to-date sequences. This can be done via [viprbrc.org](viprbrc.org). On the landing page, pick **Enterovirus** (you should find this under the header "Featured Viruses").
-
-Within the Enterovirus Taxonomy Browser, pick **Enterovirus A**. On the Genome Search page, click on "Search Criteria". There you can select Enterovirus A71 sequences. As of January 2022, there should be ~13'000 sequences. You do *NOT* need to specify sequence length, as subsampling by length is included in this build.
-
-Sequences should be downloaded in "Genome FASTA" format. Under **Format for FASTA file definition line** pick **Custom format**, adding *ALL* metadata fields. You can now download the sequences.
-
-Save the resulting file as `vipr.fasta` in the folder `data`.
 
 ### Running build
 
@@ -90,6 +80,16 @@ auspice view --datasetDir ev_a71/whole_genome/auspice
 ```
 
 You might need to run the command `export PORT=4001` if you want to run two auspice visualizations simultaneously.
+
+### Sequences
+
+You can download up-to-date sequences. This can be done via [viprbrc.org](viprbrc.org). On the landing page, pick **Enterovirus** (you should find this under the header "Featured Viruses").
+
+Within the Enterovirus Taxonomy Browser, pick **Enterovirus A**. On the Genome Search page, click on "Search Criteria". There you can select Enterovirus A71 sequences. As of January 2022, there should be ~13'000 sequences. You do *NOT* need to specify sequence length, as subsampling by length is included in this build.
+
+Sequences should be downloaded in "Genome FASTA" format. Under **Format for FASTA file definition line** pick **Custom format**, adding *ALL* metadata fields. You can now download the sequences.
+
+Save the resulting file as `vipr.fasta` in the folder `ev_a71/whole_genome/data` and `ev_a71/vp1/data`.
 
 ## Feedback
 

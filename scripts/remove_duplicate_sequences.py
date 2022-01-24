@@ -1,3 +1,15 @@
+"""
+remove_duplicate_sequences.py removes duplicate sequences by spotting duplicate ids. An id looks like this: "049/LY/CHN/AM/10/EV71".
+
+Arguments:
+    --input: fasta file with sequences, from which duplicates will be removed
+    --output: fasta file without duplicate sequences
+
+remove_duplicate_sequences.py is called within `snakefile`.
+
+"""
+
+
 import pandas as pd
 from Bio import SeqIO
 import numpy as np

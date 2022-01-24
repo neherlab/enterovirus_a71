@@ -1,11 +1,23 @@
+"""
+subsample_by_length.py subsamples from the initial sequence dataset, depending on the desired length (vp1 = 600-8000bp, whole genome = 6400-8000bp)
+
+Arguments:
+    --input: fasta file with sequences, from which this script will subsample
+    --output: subsampled fasta file
+
+subsample_by_length.py is called within `snakefile`.
+
+"""
+
+
 from Bio import SeqIO
 import argparse
 
 if __name__ == '__main__':
- 
+
     parser = argparse.ArgumentParser(
         prog = 'subsample_by_length',
-        description=""" 
+        description="""
         Subsampling sequences by length (vp1 = 600-8000bp, whole genome = 6400-8000bp)
         """,
         formatter_class=argparse.ArgumentDefaultsHelpFormatter
@@ -26,10 +38,10 @@ if __name__ == '__main__':
         if len(input_sequence.seq) > 6000 and len(input_sequence.seq) < 8000:
             whole_genome_sequences.append(input_sequence)
             vp1_sequences.append(input_sequence)
-            
+
         elif len(input_sequence.seq) > 600 and len(input_sequence.seq) < 8000:
             vp1_sequences.append(input_sequence)
-    
+
     if sequence_length == 'vp1':
         SeqIO.write(vp1_sequences, output_fasta, "fasta")
     elif sequence_length == 'whole_genome' or \

@@ -22,7 +22,7 @@ This repo contains the following folders and files:
 
 `ev_a71/vp1` contains sequences and config files used for the **>=600 bp VP1 run**.
 
-`ev_a71/whole_genome` Config files used for the **>=6400 bp whole genome run**.
+`ev_a71/whole_genome` contains sequences and config files used for the **>=6400 bp whole genome run**.
 
 In the folder `ev_a71/vp1/config` and `ev_a71/whole_genome/config` respectively, you can find configuration files required for running nextstrain:
 * coloring scheme `colors.tsv`

@@ -1,3 +1,15 @@
+"""
+date_parse standardizes dates contained in metadata.
+
+Arguments:
+    --input: the metadata.tsv file to clean
+    --output: the cleaned metadata.tsv used for further analysis
+
+date_parse.py is called within `snakefile`
+
+"""
+
+
 import pandas as pd
 import numpy as np
 import argparse

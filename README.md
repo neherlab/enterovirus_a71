@@ -22,15 +22,15 @@ This repo contains the following folders and files:
 
 `ev_a71/vp1` contains sequences and config files used for the **>=600 bp VP1 run**.
 
-`ev_a71/whole_genome`Config files used for the **>=6400 bp whole genome run**. In the folder `whole_genome/config` you can find config files(like coloring instructions and clade assignments) + a whole genome reference sequence. Sequence data from ViPR should be saved as `vipr.fasta` in `whole_genome/data`
+`ev_a71/whole_genome` Config files used for the **>=6400 bp whole genome run**. In the folder `whole_genome/config` you can find config files (like coloring instructions and clade assignments) + a whole genome reference sequence. Sequence data from ViPR should be saved as `vipr.fasta` in `whole_genome/data`
 
 In the folder `ev_a71/vp1/config` and `ev_a71/whole_genome/config` respectively, you can find configuration files required for running nextstrain:
-* coloring scheme (`colors.tsv`)
-* geographical locations (`geo_regions.tsv`)
-* latitude data (`lat_longs.tsv`)
-* dropped strains (`dropped_strains.txt`)
-* virus clade assignments (`clades_genome.tsv`)
-* reference sequence (`reference_sequence.gb`)
+* coloring scheme `colors.tsv`
+* geographical locations `geo_regions.tsv`
+* latitude data `lat_longs.tsv`
+* dropped strains `dropped_strains.txt`
+* virus clade assignments `clades_genome.tsv`
+* reference sequence `reference_sequence.gb`
 
 The reference sequence used for this build can be found [online](https://www.genome.jp/dbget-bin/www_bget?genbank-vrl:U22521). It was sequenced in **1970**, is called BrCr, and its accession number is **U22521**.
 

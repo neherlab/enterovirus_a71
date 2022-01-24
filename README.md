@@ -2,7 +2,7 @@
 
 This build performs a full Nextstrain analysis of Enterovirus A71. You can choose to either run a **>=600 base pair VP1 run** or a **>=6400 base pair whole genome run**.
 
-If you are unfamiliar or haven't installed Nextstrain you can find an introduction and full documentation [here](https://docs.nextstrain.org/en/latest/).
+If you are unfamiliar with or haven't installed Nextstrain you can find an introduction and full documentation [here](https://docs.nextstrain.org/en/latest/).
 
 This build could be extended in the future to do several additional things:
  1. Including additional metadata like patient age, granular spatial data or clinical outcomes.

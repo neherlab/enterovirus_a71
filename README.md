@@ -4,6 +4,8 @@ This build performs a full Nextstrain analysis of Enterovirus A71. You can choos
 
 If you are unfamiliar with or haven't installed Nextstrain you can find an introduction and full documentation [here](https://docs.nextstrain.org/en/latest/).
 
+You can read the master's thesis based on this build [here](https://www.overleaf.com/read/gtbhjfgcvncd)
+
 This build could be extended in the future to do several additional things:
  1. Including additional metadata like patient age, granular spatial data or clinical outcomes.
  2. Automating updates of the build with the newest available sequences. See Emma Hodcroft's [Enterovirus D68 build](https://github.com/nextstrain/enterovirus_d68) for some efforts to implement this with a closely related virus.

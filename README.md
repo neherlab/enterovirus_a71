@@ -4,7 +4,7 @@ This build performs a full Nextstrain analysis of Enterovirus A71. You can choos
 
 If you are unfamiliar with or haven't installed Nextstrain you can find an introduction and full documentation [here](https://docs.nextstrain.org/en/latest/).
 
-You can read the master's thesis by Simon Grimm and based on this build [here](https://www.overleaf.com/read/gtbhjfgcvncd).
+You can read the master's thesis by Simon Grimm, based on this build, [here](https://www.overleaf.com/read/gtbhjfgcvncd).
 
 This build could be extended in the future to do several additional things:
  1. Including additional metadata like patient age, granular spatial data or clinical outcomes.
